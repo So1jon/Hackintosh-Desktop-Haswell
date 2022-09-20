@@ -1,4 +1,3 @@
-# [EFI_iMac_15_OC_084.zip](https://github.com/So1jon/EFI_iMac_15/files/9610498/EFI_iMac_15_OC_084.zip)
 Gigabayte Z87 DS3H Intel Core i3 4130 Intel HD Graphics 4400 Success Hackintosh for
  macOS Big Sur 11.7 (20G817)
 
