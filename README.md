@@ -1,4 +1,5 @@
-# EFI Gigabayte Z87 DS3H Intel Core i3 4130 Intel HD Graphics 4400 Success Hackintosh for[EFI_iMac_15_OC_084.zip](https://github.com/So1jon/EFI_iMac_15/files/9610466/EFI_iMac_15_OC_084.zip)
+# [EFI_iMac_15_OC_084.zip](https://github.com/So1jon/EFI_iMac_15/files/9610498/EFI_iMac_15_OC_084.zip)
+Gigabayte Z87 DS3H Intel Core i3 4130 Intel HD Graphics 4400 Success Hackintosh for
  macOS Big Sur 11.7 (20G817)
 
 • Motherboard : Gigabayte Z87-DS3H v1.0 
@@ -9,8 +10,6 @@
 • RAM : 16GB DDR3 Kingston / 1600Mhz
  
 • Storage : PNY CS900 SSD 480GB
-
-    Toshiba HDD 500GB , Hitachi LG DVDRAM
  
 • Ethernet : Realtek RTL8111E-VL Gigabit Ethernet
  
@@ -21,3 +20,25 @@
 • Audio Codec : Realtek ALC887
  
 • Boot Mode : UEFI 
+
+Work?? -
+
+• Intel HD Graphics 4400 
+
+• CPU Power Management 
+
+• Restart, Sleep and Shutdown 
+
+• Ethernet 
+
+• USB Wi-Fi 
+
+• USB Bluetooth 
+
+• Audio Output from Front and Rear Jack 
+
+• HDMI Out
+ 
+• HDMI Audio 
+
+• All USB Ports
