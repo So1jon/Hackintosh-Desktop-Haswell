@@ -1,4 +1,4 @@
-Gigabayte Z87 DS3H Intel Core i3 4130 Intel HD Graphics 4400 Success Hackintosh macOS Big Sur 11.7 (20G817)
+Success Hackintosh macOS Big Sur 11.7 (20G817)
 
 • Motherboard : Gigabayte Z87-DS3H v1.0 
 
@@ -18,7 +18,9 @@ Gigabayte Z87 DS3H Intel Core i3 4130 Intel HD Graphics 4400 Success Hackintosh 
  
 • Audio Codec : Realtek ALC887
  
-• Boot Mode : UEFI 
+• Boot Mode : UEFI
+
+• Bootloader Version : OpenCore r0.8.4 
 
 Work?? -
 
