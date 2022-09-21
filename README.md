@@ -2,7 +2,8 @@ Gigabayte Z87 DS3H Intel Core i3 4130 Intel HD Graphics 4400 Success Hackintosh 
 
 • Motherboard : Gigabayte Z87-DS3H v1.0 
 
-• Processor : Intel Core i3 4130 Haswell 
+• Processor : Intel Core i3 4130 Haswell
+ 
 • IGPU : Intel HD Graphics 4400 
 
 • RAM : 16GB DDR3 Kingston / 1600Mhz
