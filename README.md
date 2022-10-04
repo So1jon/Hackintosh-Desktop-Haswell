@@ -1,6 +1,6 @@
 Success Hackintosh macOS Big Sur 11.7 (20G817)
 
-[DSDT_Full.zip](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9636925/DSDT_Full.zip)
+[DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9710260/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip)
 
 • Motherboard : Gigabayte Z87-DS3H v1.0 
 
@@ -22,7 +22,8 @@ Success Hackintosh macOS Big Sur 11.7 (20G817)
  
 • Boot Mode : UEFI
 
-• Bootloader Version : OpenCore r0.8.4 
+• Bootloader Version : OpenCore r0.8.5
+ 
 
 Work?? -
 
