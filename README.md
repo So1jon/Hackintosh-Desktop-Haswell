@@ -2,6 +2,10 @@ Success Hackintosh macOS Big Sur 11.7 (20G817)
 
 [DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9710260/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip)
 
+[IORegistryExplorer document - iMac2015.ioreg.zip ](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9718366/iMac2015.ioreg.zip)
+
+Specifications -
+
 • Motherboard : Gigabayte Z87-DS3H v1.0 
 
 • Processor : Intel Core i3 4130 Haswell
