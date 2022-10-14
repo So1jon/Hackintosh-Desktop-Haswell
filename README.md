@@ -33,6 +33,26 @@ Hardware Specifications -
 • Audio Codec : [ALC887](http://www.chipset-ic.com/datasheet/ALC887.pdf) Realtek 
  
 • Boot Mode : UEFI
+
+
+Kexts -
+
+
+• [AppleALC.kext](https://github.com/acidanthera/AppleALC) An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. AppleALCU can be used for systems with digital-only audio.
+
+• [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) OS X open source ethernet driver for the Realtek RTL8111/8168 family.Due to the lack of an OS X driver that makes use of the advanced features of the Realtek RTL81111/8168 series I started a new project with the aim to create a state of the art driver that gets the most out of those NICs which can be found on virtually any cheap board on the market today. Based on Realtek's Linux driver (version 8.035.0) I have written a driver that is optimized for performance while making efficient use of system resources and keeping the CPU usage down under heavy load.
+
+• [Lilu.kext](https://github.com/acidanthera/Lilu) An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
+
+• [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) A Lilu plug-in for dynamic power management data injection.
+
+• [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)  Advanced Apple SMC emulator in the kernel. Requires Lilu.
+
+• [VoodooPS2.kext](https://github.com/acidanthera/VoodooPS2) Touchpad and Keyboard Driver uses VoodooInput's Magic Trackpad II emulation in order to use macOS native driver instead of handling all gestures itself. This enables the use of any from one to four finger gestures defined by Apple
+
+• [USBPro.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784205/USBPro.kext.zip) (Custom) USB Driver
+
+• [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) Lilu plugin providing patches to select GPUs on macOS. Requires Lilu 1.5.6 or newer.
  
 
 Work?? -
