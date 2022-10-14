@@ -1,10 +1,12 @@
+_________________________________________________________________________________________________________________________________________________
+
 Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#starting-point)
 
 • Bootloader Version : [OpenCore-0.8.5-RELEASE](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.5/OpenCore-0.8.5-RELEASE.zip) on Oct 4, 2022
 
 [• macOS Big Sur 11.7 (20G817)](https://support.apple.com/en-us/HT211896) updated on Sep 12, 2022
 
-• SMBIOS: [iMac15,1](https://support.apple.com/kb/SP718?locale=ru_RU)
+• [PlatformInfo:](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo) SMBIOS [iMac15,1](https://support.apple.com/kb/SP718?locale=ru_RU)
 
 • Success Full [DSDT](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9710260/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip) for GIGABAYTE Z87 DS3H v1.1
 
@@ -12,9 +14,11 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • DMG image [macOS Big Sur 11.7 (20G817)](https://drive.google.com/file/d/1GZZc3CiFkPzgx67jN-hz1xyjyaNuhTbg/view?usp=sharing)
 
+_________________________________________________________________________________________________________________________________________________
+
 Hardware Specifications -
 
-• Motherboard : [Gigabayte Z87-DS3H v1.1](https://www.gigabyte.ru/products/page/mb/ga-z87-ds3hrev_11#kf) 
+• Motherboard : [Z87-DS3H v1.1](https://www.gigabyte.ru/products/page/mb/ga-z87-ds3hrev_11#kf) Gigabayte 
 
 • Processor : [Intel Core i3 4130](https://ark.intel.com/content/www/ru/ru/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Haswell
  
@@ -33,6 +37,8 @@ Hardware Specifications -
 • Audio Codec : [ALC887](http://www.chipset-ic.com/datasheet/ALC887.pdf) Realtek 
  
 • Boot Mode : UEFI
+
+_________________________________________________________________________________________________________________________________________________
 
 
 Kexts -
@@ -63,6 +69,8 @@ Kexts -
 • [CSRBluetoothInjector.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver
 
 • [USBWakeFixup.kext](https://github.com/osy/USBWakeFixup) On systems without a working Embedded Controller, waking up from a USB device might not wake up the display. A second key-press or mouse click is required to wake up the display. This extension is a workaround for that issue by creating a fake ACPI device with the right wakeup params.
+
+_________________________________________________________________________________________________________________________________________________
  
 
 Work?? -
@@ -86,3 +94,5 @@ Work?? -
 • HDMI Audio 
 
 • All USB Ports
+
+_________________________________________________________________________________________________________________________________________________
