@@ -41,7 +41,7 @@ Hardware Specifications -
 _________________________________________________________________________________________________________________________________________________
 
 
-Kexts -
+Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/) 
 
 
 • [AppleALC.kext](https://github.com/acidanthera/AppleALC) An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. AppleALCU can be used for systems with digital-only audio.
