@@ -2,9 +2,9 @@ ________________________________________________________________________________
 
 Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
-• Bootloader Version : [OpenCore-0.8.5-RELEASE](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.5/OpenCore-0.8.5-RELEASE.zip) on Oct 4, 2022
+• Bootloader : [OpenCore Lasted RELEASE Version](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/orgs/acidanthera/repositories)
 
-[• macOS Big Sur 11.7 (20G817)](https://support.apple.com/en-us/HT211896) updated on Sep 12, 2022
+• Operation system : [macOS Big Sur](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/) Final Version
 
 • [PlatformInfo:](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo) SMBIOS [iMac15,1](https://support.apple.com/kb/SP718?locale=ru_RU)
 
