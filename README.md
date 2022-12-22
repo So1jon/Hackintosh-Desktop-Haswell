@@ -10,7 +10,11 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Success Full [DSDT](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10176289/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip) for GIGABAYTE Z87 DS3H v1.1
 
-• DMG image [macOS Big Sur 11.7 (20G817)](https://drive.google.com/file/d/1GZZc3CiFkPzgx67jN-hz1xyjyaNuhTbg/view?usp=sharing)
+• DMG image [macOS Big Sur 11.7.2 (20G1020)](https://drive.google.com/file/d/1w4nrCycH-wqcrRHYK-0DZt2zvrmXW5mx/view?usp=share_link)
+
+• DMG image [macOS Monterey 12.6.2 (21G320)](https://drive.google.com/file/d/1Vj9tPiQs1mkjYxv-eYpV-vxNf0ePkbTI/view?usp=share_link)
+
+• DMG image [macOS Ventura 13.1 (22C65)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/ERAYtsFgC4ZPvR0OgJ3U7RIBvM7gy1xdLaOLAPofDgLFoA?e=R758KJ)
 
 _________________________________________________________________________________________________________________________________________________
 
