@@ -6,7 +6,7 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Operation system : [macOS Big Sur](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/) Final Version
 
-• [PlatformInfo:](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo) SMBIOS [iMac15,1](https://support.apple.com/kb/SP718?locale=ru_RU)
+• [PlatformInfo:](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo) SMBIOS [iMac14,4](https://support.apple.com/kb/SP701?locale=ru_RU) only iGPU
 
 • Success Full [DSDT](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10176289/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip) for GIGABAYTE Z87 DS3H v1.1
 
@@ -24,7 +24,7 @@ Hardware Specifications -
 
 • CPU : [Intel Core i3 4130](https://ark.intel.com/content/www/ru/ru/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Haswell
  
-• IGPU : [Intel HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Desktop
+• iGPU : [Intel HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Desktop
 
 • RAM : [4x4GB DDR3 / 1600Mhz](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf) Kingston
  
