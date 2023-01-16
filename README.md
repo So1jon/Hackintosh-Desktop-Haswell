@@ -52,7 +52,7 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 
 • [Lilu.kext](https://github.com/acidanthera/Lilu) An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
 
-• [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) A Lilu plug-in for dynamic power management data injection -[CPU Fix](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784489/CPU_Fix.zip)
+• [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) A Lilu plug-in for dynamic power management data injection -[Fix CPU Intel Core i3 4130](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784489/CPU_Fix.zip)
 
 • [CpuTscSync.kext](https://github.com/acidanthera/CpuTscSync) It is a Lilu plugin, combining functionality of VoodooTSCSync and disabling xcpm_urgency if TSC is not in sync. It should solve some kernel panics after wake.
 
@@ -64,7 +64,7 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 
 • [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) Lilu plugin providing patches to select GPUs on macOS. Requires Lilu 1.5.6 or newer.
 
-• [USBPro.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784205/USBPro.kext.zip) Custom USB Driver SMBIOS iMac15.1
+• [USBMap.kext.zip](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10427360/USBMap.kext.zip) Custom USB Driver SMBIOS iMac14,4
 
 • [Wireless-USB.kext](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) Support macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11 Only! (DO NOT USE ON OTHER OS's)
 
