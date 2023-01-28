@@ -16,7 +16,9 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • DMG image [macOS Ventura 13.2 (22D49)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/EVAJTSfBTjRMt56kn9s23S8B8VV8VteoNq-cCxD39_u6CA?e=MfOfLo)
 
-Script from Sergey_Galan  [Windows Install Version 2.5](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) Install windows on Mac (No bootcamp)-[Youtube](https://youtu.be/3_h9yOvrAKc)
+Script from Sergey_Galan  [Windows Install Version 2.5](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) 
+
+Install windows on Mac (No bootcamp)-[Youtube](https://youtu.be/3_h9yOvrAKc)
 
 Download windows 11 image from microsoft official [website](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkRpTlhsQU94ZzgwUkZfVTVobi1qN1RDUE12QXxBQ3Jtc0tueWwtdkxmeHJtb0xiS0lCaEM5WGlmSXM3eXlMS3JuODNhU202azJFOGlad2p6cnFRYU00dzRkdHlKRHBvTTgyWU1oUkpnQlVpUHY5ZHYtUTFxRkc4Q2I4QmdlWS1wYk9XZTFzYjM5OGQwSnYtaUdpOA&q=https%3A%2F%2Fwww.microsoft.com%2Fru-ru%2Fsoftware-download%2Fwindows11&v=5pBLnKHz6c0)
 _________________________________________________________________________________________________________________________________________________
