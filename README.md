@@ -12,9 +12,9 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Download image macOS Big Sur 11.7.3 (20G1116)-[(DMG Google drive-link)](https://drive.google.com/file/d/1gf-_WaHfuZsU3s7fEJiKCmjg0w-LTiOB/view?usp=share_link)
 
-• Download image macOS Monterey 12.6.3 (21G419)-[(DMG Google drive-link)](https://drive.google.com/file/d/1wNvONhKAopXCp-OM6k9Cd1-amjXIZhn4/view?usp=share_link) image  via windows [(rdr torrent-link)](https://rutracker.org/forum/dl.php?t=6066530)
+• Download image macOS Monterey 12.6.3 (21G419)-[(DMG Google drive-link)](https://drive.google.com/file/d/1wNvONhKAopXCp-OM6k9Cd1-amjXIZhn4/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/dl.php?t=6066530)
 
-• Download image macOS Ventura 13.2 (22D49)-[(DMG OneDrive-link)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/EVAJTSfBTjRMt56kn9s23S8B8VV8VteoNq-cCxD39_u6CA?e=MfOfLo) image  via windows [(rdr torrent-link)](https://rutracker.org/forum/dl.php?t=6223477)
+• Download image macOS Ventura 13.2 (22D49)-[(DMG OneDrive-link)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/EVAJTSfBTjRMt56kn9s23S8B8VV8VteoNq-cCxD39_u6CA?e=MfOfLo) via windows [(rdr torrent-link)](https://rutracker.org/forum/dl.php?t=6223477)
 
 • Script from Sergey_Galan  [Windows Install Version 2.5](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) - [Google drive link](https://drive.google.com/file/d/1m29LIGJOVr4UV2RkyqeOZkMV6XzFKhqJ/view) 
 
