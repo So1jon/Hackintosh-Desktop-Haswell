@@ -24,6 +24,10 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
+• How to Create Windows 11 Bootable USB Drive on Mac [100% Working Method Youtube-link](https://youtu.be/yfaaVDBqrvI)
+
+• Windows 10 Bootable USB Boot Folder ( EFI Folder ) [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)
+
 _________________________________________________________________________________________________________________________________________________
 
 Downlaod Tools :
