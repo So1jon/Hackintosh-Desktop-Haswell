@@ -18,15 +18,15 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Download macOS [Big Sur 11.7.3 official-link](https://swcdn.apple.com/content/downloads/42/51/032-33756-A_AESP8TG5IZ/etbmyyij5yv83bsn0os00qz6dc92zykvog/InstallAssistant.pkg) - [Monterey 12.6.3 official-link](https://swcdn.apple.com/content/downloads/17/14/032-33828-A_KX25OQBX8S/lz9yip4rmenyju8nkv4wpaqtdmvzfogkcb/InstallAssistant.pkg) - [Ventura 13.2 official-link](https://swcdn.apple.com/content/downloads/07/49/032-35706-A_E13VXNW85V/adm3i8lj9k9gmo6swtwto3lv6jc57q8i61/InstallAssistant.pkg)
 
-• Script from Sergey_Galan  [Windows Install Version 5.7](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) - [applelife.ru link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)
+• How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
-• Script from Sergey_Galan  [Windows Install Version 2.5 Google drive link](https://drive.google.com/file/d/1m29LIGJOVr4UV2RkyqeOZkMV6XzFKhqJ/view) 
+• Script from Sergey_Galan  Windows Install [Version 5.7](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) [applelife.ru link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961) - [Version 2.5 Google drive link](https://drive.google.com/file/d/1m29LIGJOVr4UV2RkyqeOZkMV6XzFKhqJ/view)
 
 • Install windows on Mac (no bootcamp only for intel platform)-[Youtube link](https://youtu.be/3_h9yOvrAKc) Russian manual-[Youtube link](https://youtu.be/5pBLnKHz6c0)
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• How to Create Windows 11 Bootable USB Drive on Mac [100% Working Method Youtube-link](https://youtu.be/yfaaVDBqrvI)
+• How to Create Windows 11 Bootable USB Drive on Mac (manual) [100% Working Method Youtube-link](https://youtu.be/yfaaVDBqrvI)
 
 • Windows 10 Bootable USB Boot Folder ( EFI Folder ) [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)
 
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 Downlaod Tools :
 
-• Python Releases for macOS [official website link](https://www.python.org/downloads/macos/)
+• Python Releases for macOS [official website link](https://www.python.org/downloads/macos/) for Windows [official website link](https://www.python.org/downloads/windows/)
 
 • Proper Tree        - [Github link](https://github.com/corpnewt/ProperTree)
 
@@ -46,7 +46,9 @@ Downlaod Tools :
 
 • USBMap             - [Github Link](https://github.com/corpnewt/USBMap)
 
-• USBToolBox/tool    - [Gihub Link](https://github.com/USBToolBox/tool)       
+• USBToolBox/tool    - [Gihub Link](https://github.com/USBToolBox/tool)
+
+• TransMac           - [Official link](https://www.acutesystems.com/scrtm.htm)   
 _________________________________________________________________________________________________________________________________________________
 
 Hardware Specifications -
