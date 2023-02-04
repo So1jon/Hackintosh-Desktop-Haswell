@@ -50,7 +50,9 @@ Downlaod Tools :
 
 • TransMac           - [Official link](https://www.acutesystems.com/scrtm.htm)
 
-• HFS+ for Windows by Paragon Software - [Official link](https://www.paragon-software.com/home/hfs-windows/)   
+• HFS+ for Windows by Paragon Software - [Official link](https://www.paragon-software.com/home/hfs-windows/)
+
+• Download Full installer app for macOS - [Gihub Link](https://github.com/scriptingosx/DownloadFullInstaller)  
 _________________________________________________________________________________________________________________________________________________
 
 Hardware Specifications -
