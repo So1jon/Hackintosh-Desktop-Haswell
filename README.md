@@ -52,7 +52,9 @@ Downlaod Tools :
 
 • HFS+ for Windows by Paragon Software - [Official link](https://www.paragon-software.com/home/hfs-windows/)
 
-• Download Full installer app for macOS - [Gihub Link](https://github.com/scriptingosx/DownloadFullInstaller)  
+• "Download Full installer app" for macOS - [Gihub Link](https://github.com/scriptingosx/DownloadFullInstaller)
+
+• "About This Hack app" for macOS Ventura - [Github Link](https://github.com/0xCUB3/About-This-Hack)  
 _________________________________________________________________________________________________________________________________________________
 
 Hardware Specifications -
