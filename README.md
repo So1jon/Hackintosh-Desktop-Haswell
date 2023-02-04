@@ -20,7 +20,7 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Install windows on Mac (No bootcamp)-[Youtube link](https://youtu.be/3_h9yOvrAKc) Russian manual-[Youtube link](https://youtu.be/5pBLnKHz6c0)
 
-• Download windows 11 image from microsoft official [website link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkRpTlhsQU94ZzgwUkZfVTVobi1qN1RDUE12QXxBQ3Jtc0tueWwtdkxmeHJtb0xiS0lCaEM5WGlmSXM3eXlMS3JuODNhU202azJFOGlad2p6cnFRYU00dzRkdHlKRHBvTTgyWU1oUkpnQlVpUHY5ZHYtUTFxRkc4Q2I4QmdlWS1wYk9XZTFzYjM5OGQwSnYtaUdpOA&q=https%3A%2F%2Fwww.microsoft.com%2Fru-ru%2Fsoftware-download%2Fwindows11&v=5pBLnKHz6c0)
+• Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
 _________________________________________________________________________________________________________________________________________________
 
