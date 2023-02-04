@@ -16,6 +16,8 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Download image macOS Ventura 13.2 (22D49)-[(DMG OneDrive-link)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/EVAJTSfBTjRMt56kn9s23S8B8VV8VteoNq-cCxD39_u6CA?e=MfOfLo) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
+• Download macOS [Big Sur 11.7.3 official-link](https://swcdn.apple.com/content/downloads/42/51/032-33756-A_AESP8TG5IZ/etbmyyij5yv83bsn0os00qz6dc92zykvog/InstallAssistant.pkg) - [Monterey 12.6.3 official-link](https://swcdn.apple.com/content/downloads/17/14/032-33828-A_KX25OQBX8S/lz9yip4rmenyju8nkv4wpaqtdmvzfogkcb/InstallAssistant.pkg) - [Ventura 13.2 official-link](https://swcdn.apple.com/content/downloads/07/49/032-35706-A_E13VXNW85V/adm3i8lj9k9gmo6swtwto3lv6jc57q8i61/InstallAssistant.pkg)
+
 • Script from Sergey_Galan  [Windows Install Version 5.7](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) - [applelife.ru link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)
 
 • Script from Sergey_Galan  [Windows Install Version 2.5 Google drive link](https://drive.google.com/file/d/1m29LIGJOVr4UV2RkyqeOZkMV6XzFKhqJ/view) 
