@@ -35,7 +35,13 @@ How install windows on Mac :
 
 • Install windows on Mac (no bootcamp only for intel platform)-[Youtube link](https://youtu.be/3_h9yOvrAKc) Russian manual-[Youtube link](https://youtu.be/5pBLnKHz6c0)
 
+• How to Install Windows 11 on Mac Without Boot Camp - [Youtube link](https://youtu.be/flxXlArDFCY)
+
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
+
+• Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
+
+• Download Brigadier - [website link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmV6eWdUZDdsRUZ2U1UxVFFZY29BVDYwckR5QXxBQ3Jtc0tuaXN1eVdTYXBDTlY0NDhCWUQzZ3BGYmkzUVRfaHF1Nm9aNkhPbVBweXFqTmsyMTZZUFk3RkMwZ0ZKbzB4VEFtWFNLTUQwS3F2TVVkT2tOVmRTUm1NQXNfSHNQcmhDdkw3SjBleVpQQ3ZBeTBLdnBxbw&q=https%3A%2F%2Fbit.ly%2F3aRRu0M&v=flxXlArDFCY)  Command - [Google drive-link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)
 
 • How to Create Windows 11 Bootable USB Drive on Mac (manual) [100% Working Method Youtube-link](https://youtu.be/yfaaVDBqrvI)
 
