@@ -10,6 +10,11 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Success Full [DSDT](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10581093/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip) for GIGABAYTE Z87 DS3H v1.1
 
+_________________________________________________________________________________________________________________________________________________
+
+
+How to create macOS Bootable usb drive:
+
 • Download image macOS Big Sur 11.7.3 (20G1116)-[(DMG Google drive-link)](https://drive.google.com/file/d/1gf-_WaHfuZsU3s7fEJiKCmjg0w-LTiOB/view?usp=share_link)
 
 • Download image macOS Monterey 12.6.3 (21G419)-[(DMG Google drive-link)](https://drive.google.com/file/d/1wNvONhKAopXCp-OM6k9Cd1-amjXIZhn4/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
@@ -19,6 +24,12 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 • Download macOS [Big Sur 11.7.3 official-link](https://swcdn.apple.com/content/downloads/42/51/032-33756-A_AESP8TG5IZ/etbmyyij5yv83bsn0os00qz6dc92zykvog/InstallAssistant.pkg) ____ [Monterey 12.6.3 official-link](https://swcdn.apple.com/content/downloads/17/14/032-33828-A_KX25OQBX8S/lz9yip4rmenyju8nkv4wpaqtdmvzfogkcb/InstallAssistant.pkg) ___ [Ventura 13.2 official-link](https://swcdn.apple.com/content/downloads/07/49/032-35706-A_E13VXNW85V/adm3i8lj9k9gmo6swtwto3lv6jc57q8i61/InstallAssistant.pkg)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
+
+
+_________________________________________________________________________________________________________________________________________________
+
+
+How install windows on Mac :
 
 • Script from Sergey_Galan  Windows Install [Version 5.7](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) [applelife.ru link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961) - [Version 2.5 Google drive link](https://drive.google.com/file/d/1m29LIGJOVr4UV2RkyqeOZkMV6XzFKhqJ/view)
 
