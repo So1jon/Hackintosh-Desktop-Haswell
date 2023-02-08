@@ -73,7 +73,9 @@ Downlaod Tools :
 
 • "About This Hack app" for macOS Ventura - [Github Link](https://github.com/0xCUB3/About-This-Hack)
 
-• OpenCore Legacy Patcher for macOS - [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher) 
+• OpenCore Legacy Patcher for macOS - [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher)
+ 
+• Download Kernel Debug Kit for macOS - [Official link](https://developer.apple.com/download/all/)
 _________________________________________________________________________________________________________________________________________________
 
 Hardware Specifications -
@@ -129,6 +131,8 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 • [CSRBluetoothInjector.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver
 
 • [USBWakeFixup.kext](https://github.com/osy/USBWakeFixup) On systems without a working Embedded Controller, waking up from a USB device might not wake up the display. A second key-press or mouse click is required to wake up the display. This extension is a workaround for that issue by creating a fake ACPI device with the right wakeup params.
+
+• [AMFIExemption.kext](https://github.com/osy/AMFIExemption) Adds allowed entitlements to non-Apple signed apps when SIP is enabled.
 
 _________________________________________________________________________________________________________________________________________________
  
