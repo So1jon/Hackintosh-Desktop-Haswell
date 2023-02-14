@@ -55,6 +55,8 @@ Downlaod Tools :
 
 • Proper Tree        - [Github link](https://github.com/corpnewt/ProperTree)
 
+• OcBinaryData       - [Github link](https://github.com/acidanthera/OcBinaryData)
+
 • GenSMBIOS          - [Github link](https://github.com/corpnewt/GenSMBIOS)
 
 • ssdtPRGen.sh       - [Github link](https://github.com/Piker-Alpha/ssdtPRGen.sh)
