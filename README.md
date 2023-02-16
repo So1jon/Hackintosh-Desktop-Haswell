@@ -19,7 +19,7 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Monterey 12.6.3 (21G419)-[(DMG Google drive-link)](https://drive.google.com/file/d/1wNvONhKAopXCp-OM6k9Cd1-amjXIZhn4/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
-• Download image macOS Ventura 13.2 (22D49)-[(DMG OneDrive-link)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/EVAJTSfBTjRMt56kn9s23S8B8VV8VteoNq-cCxD39_u6CA?e=MfOfLo) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
+• Download image macOS Ventura 13.2.1 (22D49)-[(DMG OneDrive-link)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/ERDaGy6muHRPoZuOkFe7IG0BKK3UEsvQ9knweykuC5_6dA?e=4iitgP) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
 • Download macOS [Big Sur 11.7.3 official-link](https://swcdn.apple.com/content/downloads/42/51/032-33756-A_AESP8TG5IZ/etbmyyij5yv83bsn0os00qz6dc92zykvog/InstallAssistant.pkg) ____ [Monterey 12.6.3 official-link](https://swcdn.apple.com/content/downloads/17/14/032-33828-A_KX25OQBX8S/lz9yip4rmenyju8nkv4wpaqtdmvzfogkcb/InstallAssistant.pkg) ___ [Ventura 13.2 official-link](https://swcdn.apple.com/content/downloads/07/49/032-35706-A_E13VXNW85V/adm3i8lj9k9gmo6swtwto3lv6jc57q8i61/InstallAssistant.pkg)
 
