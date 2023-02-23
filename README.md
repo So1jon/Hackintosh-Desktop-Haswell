@@ -138,6 +138,8 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 
 • [AMFIExemption.kext](https://github.com/osy/AMFIExemption) Adds allowed entitlements to non-Apple signed apps when SIP is enabled.
 
+• [HibernationFixup.kext](https://github.com/acidanthera/HibernationFixup) An open source kernel extension providing a sync between RTC variables and NVRAM.
+
 _________________________________________________________________________________________________________________________________________________
  
 
