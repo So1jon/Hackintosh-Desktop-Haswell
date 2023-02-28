@@ -10,6 +10,8 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Success Full [DSDT](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10581093/DSDT_GIGABAYTE-Z87-DS3H_Intel-Core-i3-4130.zip) for GIGABAYTE Z87 DS3H v1.1
 
+• Geekbench 6.0.0 for macOS AVX2 Result Information [ID 344033 ](https://browser.geekbench.com/v6/cpu/344033)
+
 _________________________________________________________________________________________________________________________________________________
 
 
