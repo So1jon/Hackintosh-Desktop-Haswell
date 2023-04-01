@@ -19,13 +19,13 @@ ________________________________________________________________________________
 
 How to create macOS Bootable usb drive:
 
-• Download image macOS Big Sur 11.7.4 (20G1120)-[(DMG Google drive-link)](https://drive.google.com/file/d/1yQftJGwxwnKT9K96VS53QJ1xRS2ckEii/view?usp=share_link)
+• Download image macOS Big Sur 11.7.5 (20G1225)-[(DMG Google drive-link)](https://drive.google.com/file/d/133hfW4PGZufZwVb_QTMhmf3NDRv6AaO9/view?usp=share_link)
 
-• Download image macOS Monterey 12.6.3 (21G419)-[(DMG Google drive-link)](https://drive.google.com/file/d/1wNvONhKAopXCp-OM6k9Cd1-amjXIZhn4/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
+• Download image macOS Monterey 12.6.4 (21G526)-[(DMG Google drive-link)](https://drive.google.com/file/d/1SbJiJlaLwq3yIAPJCv7dE6bZ_lv-0iPN/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
-• Download image macOS Ventura 13.2.1 (22D68)-[(DMG OneDrive-link)](https://79mac-my.sharepoint.com/:u:/g/personal/7_79mac_onmicrosoft_com/ERDaGy6muHRPoZuOkFe7IG0BKK3UEsvQ9knweykuC5_6dA?e=4iitgP) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
+• Download image macOS Ventura 13.3 (22E252)-[(DMG Google drive-link)](https://drive.google.com/file/d/1EGDhjHvQRPV15aU2Gl-2yRtlgyBnLrlX/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download macOS [Big Sur 11.7.4 official-link](https://swcdn.apple.com/content/downloads/26/54/032-50519-A_CXUH67MIZN/z1mbjod7nna0yhubto3a7pyq1gilhin6fw/InstallAssistant.pkg) ____ [Monterey 12.6.3 official-link](https://swcdn.apple.com/content/downloads/17/14/032-33828-A_KX25OQBX8S/lz9yip4rmenyju8nkv4wpaqtdmvzfogkcb/InstallAssistant.pkg) ___ [Ventura 13.2.1 official-link](https://swcdn.apple.com/content/downloads/26/15/032-48342-A_OG2YEE7OSX/8sd3qpy79cimb7cjiy47cytps0gm7m0z5l/InstallAssistant.pkg)
+• Download macOS [Big Sur 11.7.5 official-link](https://swcdn.apple.com/content/downloads/15/42/032-63762-A_6CJ6JOEC74/hdc26sfhq2a4c4x7yvafi9mrbe3jg3xo3d/InstallAssistant.pkg) ____ [Monterey 12.6.4 official-link](https://swcdn.apple.com/content/downloads/07/41/032-63749-A_38MYH58MVP/0ynlao7ghdixj9sgw8im15vwf4hox0hnzc/InstallAssistant.pkg) ___ [Ventura 13.3 official-link](https://swcdn.apple.com/content/downloads/41/46/002-75541-A_N0W4MFQ0NM/rwkz3k8cd91dvrvddymange3k8004xkt4v/InstallAssistant.pkg)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
