@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 How to create macOS Bootable usb drive:
 
-• Download image macOS Big Sur 11.7.5 (20G1225)-[(DMG Google drive-link)](https://drive.google.com/file/d/133hfW4PGZufZwVb_QTMhmf3NDRv6AaO9/view?usp=share_link)
+• Download image macOS Big Sur 11.7.5 (20G1225)-[(DMG Google drive-link)](https://drive.google.com/file/d/133hfW4PGZufZwVb_QTMhmf3NDRv6AaO9/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=5928524)
 
 • Download image macOS Monterey 12.6.4 (21G526)-[(DMG Google drive-link)](https://drive.google.com/file/d/1SbJiJlaLwq3yIAPJCv7dE6bZ_lv-0iPN/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
@@ -45,7 +45,7 @@ How install windows on Mac :
 
 • Download Bypass Microsoft Windows 11 [22621.1485], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1485.230319-0158.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_03_28.iso)
 
-• Download Bypass Microsoft Windows 11 [22624.1470], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22624.1470.230311-2336.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_03_23.iso) 
+• Download Bypass Microsoft Windows 11 [22624.1537], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22624.1537.230324-0413.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_03_31.iso) 
 
 • Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
 
