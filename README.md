@@ -21,11 +21,11 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Big Sur 11.7.5 (20G1225)-[(DMG Google drive-link)](https://drive.google.com/file/d/133hfW4PGZufZwVb_QTMhmf3NDRv6AaO9/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=5928524)
 
-• Download image macOS Monterey 12.6.4 (21G526)-[(DMG Google drive-link)](https://drive.google.com/file/d/1SbJiJlaLwq3yIAPJCv7dE6bZ_lv-0iPN/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
+• Download image macOS Monterey 12.6.5 (21G531)-[(DMG Google drive-link)](https://drive.google.com/file/d/1R6819-0nT9x0KAORBZHvPmgWmQLDVwer/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
 • Download image macOS Ventura 13.3.1 (22E261)-[(DMG Google drive-link)](https://drive.google.com/file/d/1T133wvWJS8vq8URPpho0EkKT3tT-0utB/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download macOS [Big Sur 11.7.5 official-link](https://swcdn.apple.com/content/downloads/15/42/032-63762-A_6CJ6JOEC74/hdc26sfhq2a4c4x7yvafi9mrbe3jg3xo3d/InstallAssistant.pkg) ____ [Monterey 12.6.4 official-link](https://swcdn.apple.com/content/downloads/07/41/032-63749-A_38MYH58MVP/0ynlao7ghdixj9sgw8im15vwf4hox0hnzc/InstallAssistant.pkg) ___ [Ventura 13.3.1 official-link](https://swcdn.apple.com/content/downloads/37/35/032-66588-A_P5QIYDIIZL/kkuzd39hnskjm12vimzblklo3drb3majbf/InstallAssistant.pkg)
+• Download macOS [Big Sur 11.7.5 official-link](https://swcdn.apple.com/content/downloads/15/42/032-63762-A_6CJ6JOEC74/hdc26sfhq2a4c4x7yvafi9mrbe3jg3xo3d/InstallAssistant.pkg) ____ [Monterey 12.6.5 official-link](https://swcdn.apple.com/content/downloads/24/38/032-71575-A_N8LLYQ3VAW/slqvm2ho1x1h2rtmevw0ev05er5mvoqp16/InstallAssistant.pkg) ___ [Ventura 13.3.1 official-link](https://swcdn.apple.com/content/downloads/37/35/032-66588-A_P5QIYDIIZL/kkuzd39hnskjm12vimzblklo3drb3majbf/InstallAssistant.pkg)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
