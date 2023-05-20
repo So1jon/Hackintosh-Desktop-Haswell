@@ -15,13 +15,13 @@ ________________________________________________________________________________
 
 How to create macOS Bootable usb drive:
 
-• Download image macOS Big Sur 11.7.6 (20G1231)-[(DMG Google drive-link)](https://drive.google.com/file/d/1EZquFy9y3cdjXmQx21PcI3jfJPku64d8/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=5928524)
+• Download image macOS Big Sur 11.7.7 (20G1345)-[(DMG Google drive-link)](https://drive.google.com/file/d/1SnHgJIyNayMv1GjOQqFOwmMXw1_2t03y/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=5928524)
 
-• Download image macOS Monterey 12.6.5 (21G531)-[(DMG Google drive-link)](https://drive.google.com/file/d/1R6819-0nT9x0KAORBZHvPmgWmQLDVwer/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
+• Download image macOS Monterey 12.6.6 (21G646)-[(DMG Google drive-link)](https://drive.google.com/file/d/1pP1GRifBvcd5Not045B_SqwhKlvZY36r/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
-• Download image macOS Ventura 13.3.1 (22E261)-[(DMG Google drive-link)](https://drive.google.com/file/d/1T133wvWJS8vq8URPpho0EkKT3tT-0utB/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
+• Download image macOS Ventura 13.4 (22F66)-[(DMG Google drive-link)](https://drive.google.com/file/d/11T6rs0MC-MQ_xKKKyVzbHT7IpZH_XzDE/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download macOS [Big Sur 11.7.6 official-link](https://swcdn.apple.com/content/downloads/26/50/032-71551-A_NEEJFFMQN1/c06fxmsx5spzdzexzlfoexop24tl03i490/InstallAssistant.pkg) ____ [Monterey 12.6.5 official-link](https://swcdn.apple.com/content/downloads/24/38/032-71575-A_N8LLYQ3VAW/slqvm2ho1x1h2rtmevw0ev05er5mvoqp16/InstallAssistant.pkg) ___ [Ventura 13.3.1 official-link](https://swcdn.apple.com/content/downloads/37/35/032-66588-A_P5QIYDIIZL/kkuzd39hnskjm12vimzblklo3drb3majbf/InstallAssistant.pkg)
+• Download macOS [Big Sur 11.7.7 official-link](https://swcdn.apple.com/content/downloads/26/34/032-82176-A_8REZNXFIVG/emf4n3m7klcrjxsfxytps0km45fnjz5lgn/InstallAssistant.pkg) ____ [Monterey 12.6.6 official-link](https://swcdn.apple.com/content/downloads/52/15/032-82192-A_RBZQI1MZUL/hd4ydfjtjsy376z3y8ijtlijcob0qjqgwj/InstallAssistant.pkg) ___ [Ventura 13.4 official-link](https://swcdn.apple.com/content/downloads/63/49/032-84910-A_3SSTBN1HDA/h89vitwfbzt54jcbwpfwkmrn12smedicny/InstallAssistant.pkg)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
@@ -39,7 +39,7 @@ How install windows on Mac :
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• Download Bypass Microsoft Windows 11 [22621.1702], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1702.230503-0015.NI_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_09.iso)
+• Download Bypass Microsoft Windows 11 [22621.1776], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1776.230506-2135.NI_RELEASE_SVC_PROD2_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_11.iso)
 
 • Download Bypass Microsoft Windows 11 [22624.1755], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22624.1755.230502-2326.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_09.iso) 
 
