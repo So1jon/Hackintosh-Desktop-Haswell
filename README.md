@@ -39,9 +39,9 @@ How install windows on Mac :
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• Download Bypass Microsoft Windows 11 [22621.1776], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1776.230506-2135.NI_RELEASE_SVC_PROD2_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_11.iso)
+• Download Bypass Microsoft Windows 11 [22621.1778], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1778.230512-2311.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_24.iso)
 
-• Download Bypass Microsoft Windows 11 [22624.1755], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22624.1755.230502-2326.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_09.iso) 
+• Download Bypass Microsoft Windows 11 [22631.1825], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22631.1825.230512-1424.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_25.iso) 
 
 • Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
 
