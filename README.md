@@ -6,9 +6,11 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Operation system : [macOS Big Sur](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/) Final Version
 
-• Geekbench 6.0.0 for macOS CPU AVX2 Result Information [ID 344033 ](https://browser.geekbench.com/v6/cpu/344033)
+• Geekbench 6 for macOS CPU AVX2 Result Information [ID 344033 ](https://browser.geekbench.com/v6/cpu/344033)
 
-• Geekbench 6.0.0 for macOS iGPU Metal Result Information [ID 130650](https://browser.geekbench.com/v6/compute/130650)
+• Geekbench 6 for macOS iGPU Metal Result Information [ID 130650](https://browser.geekbench.com/v6/compute/130650)
+
+• Geekbench 6 for macOS dGPU Metal Result Information [ID 553230](https://browser.geekbench.com/v6/compute/553230)
 
 _________________________________________________________________________________________________________________________________________________
 
@@ -100,6 +102,8 @@ Hardware Specifications -
  
 • iGPU : [Intel HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Desktop
 
+• dGPU : [AMD Radeon RX 580 8GB](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5) Sapphire NITRO+
+
 • RAM : [4x4GB DDR3 / 1600Mhz](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf) Kingston
  
 • Storage : [SSD 480GB](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/) PNY CS900 
@@ -154,6 +158,8 @@ ________________________________________________________________________________
  
 
 Work?? -
+
+• AMD Radeon RX 580
 
 • Intel HD Graphics 4400 
 
