@@ -23,7 +23,7 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Ventura 13.4 (22F66)-[(DMG Google drive-link)](https://drive.google.com/file/d/11T6rs0MC-MQ_xKKKyVzbHT7IpZH_XzDE/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download image macOS Sonoma 14.0 (23A5257q)-[(DMG torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6372679) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6372743)
+• Download image macOS Sonoma 14.0 (23A5257q)-[(DMG Google drive-link)](https://drive.google.com/file/d/13_0L4hunBbuChvHQJtACbSuIhBBYwWcj/view?usp=drive_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6372743)
 
 • Download macOS [Big Sur 11.7.7 official-link](https://swcdn.apple.com/content/downloads/26/34/032-82176-A_8REZNXFIVG/emf4n3m7klcrjxsfxytps0km45fnjz5lgn/InstallAssistant.pkg) ____ [Monterey 12.6.6 official-link](https://swcdn.apple.com/content/downloads/52/15/032-82192-A_RBZQI1MZUL/hd4ydfjtjsy376z3y8ijtlijcob0qjqgwj/InstallAssistant.pkg) ___ [Ventura 13.4 official-link](https://swcdn.apple.com/content/downloads/63/49/032-84910-A_3SSTBN1HDA/h89vitwfbzt54jcbwpfwkmrn12smedicny/InstallAssistant.pkg)
 
@@ -43,13 +43,13 @@ How install windows on Mac :
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• Download Bypass Microsoft Windows 11 [22621.1778], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22621.1778.230512-2311.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_05_24.iso)
+• Download Bypass Microsoft Windows 11 [22621.1926], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22621.1926.230616-1746.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_20.iso)
 
-• Download Bypass Microsoft Windows 11 [22621.1778], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1778.230512-2311.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_05_24.iso)
+• Download Bypass Microsoft Windows 11 [22621.1926], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1926.230616-1746.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_20.iso)
 
-• Download Bypass Microsoft Windows 11 [22631.1835], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22631.1835.230527-1924.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_08.iso)
+• Download Bypass Microsoft Windows 11 [22631.1906], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22631.1906.230611-2005.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_22.iso)
 
-• Download Bypass Microsoft Windows 11 [22631.1835], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22631.1835.230527-1924.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_08.iso) 
+• Download Bypass Microsoft Windows 11 [22631.1906], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22631.1906.230611-2005.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_22.iso) 
 
 • Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
 
