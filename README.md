@@ -21,11 +21,9 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Monterey 12.6.6 (21G646)-[(DMG Google drive-link)](https://drive.google.com/file/d/1pP1GRifBvcd5Not045B_SqwhKlvZY36r/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
-• Download image macOS Ventura 13.4 (22F66)-[(DMG Google drive-link)](https://drive.google.com/file/d/11T6rs0MC-MQ_xKKKyVzbHT7IpZH_XzDE/view?usp=share_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
+• Download image macOS Ventura 13.4.1 (22F82)-[(DMG Google drive-link)](https://drive.google.com/file/d/1LOVs1wuE6xW4SPHek2Jiwm1hzlo006hm/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download image macOS Sonoma 14.0 (23A5257q)-[(DMG Google drive-link)](https://drive.google.com/file/d/13_0L4hunBbuChvHQJtACbSuIhBBYwWcj/view?usp=drive_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6372743)
-
-• Download macOS [Big Sur 11.7.7 official-link](https://swcdn.apple.com/content/downloads/26/34/032-82176-A_8REZNXFIVG/emf4n3m7klcrjxsfxytps0km45fnjz5lgn/InstallAssistant.pkg) ____ [Monterey 12.6.6 official-link](https://swcdn.apple.com/content/downloads/52/15/032-82192-A_RBZQI1MZUL/hd4ydfjtjsy376z3y8ijtlijcob0qjqgwj/InstallAssistant.pkg) ___ [Ventura 13.4 official-link](https://swcdn.apple.com/content/downloads/63/49/032-84910-A_3SSTBN1HDA/h89vitwfbzt54jcbwpfwkmrn12smedicny/InstallAssistant.pkg)
+• Download image macOS Sonoma 14.0 Developer Beta 2 (23A5276g)-[(Image for Intel Official link)](https://swcdn.apple.com/content/downloads/02/02/032-95852-A_JX472QYN2N/0q2do64a61pmgv1u8j0l3ddyfrods0yvdo/InstallAssistant.pkg)-[(Image for ARM Official link)](https://updates.cdn-apple.com/2023SummerSeed/fullrestores/032-95861/67600C59-8516-4A46-B9D7-4007D395CEF5/UniversalMac_14.0_23A5276g_Restore.ipsw)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
