@@ -79,6 +79,8 @@ Downlaod Tools :
 
 • USBToolBox/tool    - [Gihub Link](https://github.com/USBToolBox/tool)
 
+• RadeonSensor       - [Gihub Link](https://github.com/NootInc/RadeonSensor)
+
 • TransMac           - [Official link](https://www.acutesystems.com/scrtm.htm)
 
 • HFS+ for Windows by Paragon Software - [Official link](https://www.paragon-software.com/home/hfs-windows/)
