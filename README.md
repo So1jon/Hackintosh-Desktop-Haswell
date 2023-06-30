@@ -41,13 +41,13 @@ How install windows on Mac :
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• Download Bypass Microsoft Windows 11 [22621.1926], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22621.1926.230616-1746.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_20.iso)
+• Download Bypass Microsoft Windows 11 [22621.1928], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22621.1928.230622-0951.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_27.iso)
 
-• Download Bypass Microsoft Windows 11 [22621.1926], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1926.230616-1746.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_20.iso)
+• Download Bypass Microsoft Windows 11 [22621.1928], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22621.1928.230622-0951.NI_RELEASE_SVC_PROD3_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_27.iso)
 
-• Download Bypass Microsoft Windows 11 [22631.1906], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22631.1906.230611-2005.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_22.iso)
+• Download Bypass Microsoft Windows 11 [22631.1972], Version 22H2 (En) - Original image  [web link](https://comss.cloud/22631.1972.230619-1626.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_06_29.iso)
 
-• Download Bypass Microsoft Windows 11 [22631.1906], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22631.1906.230611-2005.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_22.iso) 
+• Download Bypass Microsoft Windows 11 [22631.1972], Version 22H2 (Ru) - Original image  [web link](https://comss.cloud/22631.1972.230619-1626.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_06_29.iso) 
 
 • Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
 
@@ -100,7 +100,7 @@ Hardware Specifications -
 
 • CPU : [Intel Core i3 4130](https://ark.intel.com/content/www/ru/ru/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Haswell
  
-• iGPU : [Intel HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Desktop
+• iGPU : [Desktop HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Intel
 
 • dGPU : [AMD Radeon RX 580 8GB](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5) Sapphire NITRO+
 
