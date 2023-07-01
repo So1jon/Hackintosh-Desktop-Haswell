@@ -8,9 +8,7 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Geekbench 6 for macOS CPU AVX2 Result Information [ID 344033 ](https://browser.geekbench.com/v6/cpu/344033)
 
-• Geekbench 6 for macOS iGPU Metal Result Information [ID 130650](https://browser.geekbench.com/v6/compute/130650)
-
-• Geekbench 6 for macOS dGPU Metal Result Information [ID 553230](https://browser.geekbench.com/v6/compute/553230)
+• Geekbench 6 for macOS dGPU Metal Result Information [ID 624217](https://browser.geekbench.com/v6/compute/624217)
 
 _________________________________________________________________________________________________________________________________________________
 
