@@ -6,7 +6,7 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Operation system : [macOS Big Sur](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/) Final Version
 
-• Geekbench 6 for macOS CPU AVX2 Result Information [ID 344033 ](https://browser.geekbench.com/v6/cpu/344033)
+• Geekbench 6 for macOS CPU AVX2 Result Information [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)
 
 • Geekbench 6 for macOS dGPU Metal Result Information [ID 624217](https://browser.geekbench.com/v6/compute/624217)
 
