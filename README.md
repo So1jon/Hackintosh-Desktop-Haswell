@@ -104,7 +104,7 @@ Hardware Specifications -
 
 • RAM : [4x4GB DDR3 / 1600Mhz](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf) Kingston
  
-• Storage : [SSD 480GB](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/) PNY CS900 
+• Storage : [SSD 480GB SATA-III 6Gb/s](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/) PNY CS900 
  
 • Ethernet : [Realtek RTL8111E-VL](https://4ip.info/files/attachments/RTL8111E.pdf) Gigabit Ethernet
  
