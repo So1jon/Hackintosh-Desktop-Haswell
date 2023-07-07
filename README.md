@@ -96,9 +96,9 @@ Hardware Specifications -
 
 • Motherboard : [Z87-DS3H v1.1](https://www.gigabyte.ru/products/page/mb/ga-z87-ds3hrev_11#kf) Gigabayte 
 
-• CPU : [Intel Core i3 4130](https://ark.intel.com/content/www/ru/ru/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Haswell
+• CPU : [Intel Core i3 4130](https://ark.intel.com/content/www/ru/ru/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Intel Haswell
  
-• iGPU : [Desktop HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Intel
+• iGPU : [Desktop HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Intel Haswell
 
 • dGPU : [AMD Radeon RX 580 8GB](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5) Sapphire NITRO+
 
