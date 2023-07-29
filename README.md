@@ -90,7 +90,7 @@ ________________________________________________________________________________
 
 Hardware Specifications -
 
-• Motherboard : [Z87-DS3H v1.1](https://www.gigabyte.ru/products/page/mb/ga-z87-ds3hrev_11#kf) Gigabayte 
+• Motherboard : [Z87-DS3H v1.1](https://www.gigabyte.com/Motherboard/GA-Z87-DS3H-rev-11#ov) Gigabayte 
 
 • CPU : [Core i3 4130](https://ark.intel.com/content/www/ru/ru/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Intel Haswell
  
