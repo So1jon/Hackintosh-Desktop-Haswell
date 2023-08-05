@@ -4,7 +4,7 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 • Bootloader : [OpenCore Lasted RELEASE Version](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/orgs/acidanthera/repositories)
 
-• Operation system : [macOS Big Sur](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/) Final Version
+• Operation system : macOS Big Sur Final up to Sonoma Version Beta 
 
 • Geekbench 6 for macOS CPU AVX2 Result Information [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)
 
