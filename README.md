@@ -140,7 +140,7 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 
 • [Wireless-USB.kext](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) Support macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina Only! (DO NOT USE ON OTHER OS's)
 
-• [CSRBluetoothInjector.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver
+• [CSRBluetoothInjector.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver Support macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
 
 • [USBWakeFixup.kext](https://github.com/osy/USBWakeFixup) On systems without a working Embedded Controller, waking up from a USB device might not wake up the display. A second key-press or mouse click is required to wake up the display. This extension is a workaround for that issue by creating a fake ACPI device with the right wakeup params.
 
