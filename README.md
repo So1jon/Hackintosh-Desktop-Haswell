@@ -21,7 +21,7 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Ventura 13.5 (22G74)-[(DMG torrent-link)](https://nnmclub.to/forum/viewtopic.php?t=1648963) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download image macOS Sonoma 14.0 Beta 5 (23A5312d)-[(pkg official link)](https://swcdn.apple.com/content/downloads/41/53/042-25574-A_YJ7607N1CB/dwkoslehspd77g1c717yvjfdpj9rq6c1s4/InstallAssistant.pkg) - [(DMG Google drive-link)](https://drive.google.com/file/d/1pkVCLoCYEksO3Qoj4szaXBe4IVV5q3N5/view?usp=sharing)
+• Download image macOS Sonoma 14.0 Beta 5 (23A5312d)-[(pkg official-link)](https://swcdn.apple.com/content/downloads/41/53/042-25574-A_YJ7607N1CB/dwkoslehspd77g1c717yvjfdpj9rq6c1s4/InstallAssistant.pkg) - [(DMG Google drive-link)](https://drive.google.com/file/d/1pkVCLoCYEksO3Qoj4szaXBe4IVV5q3N5/view?usp=sharing)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
