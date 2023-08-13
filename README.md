@@ -21,7 +21,7 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Ventura 13.5 (22G74)-[(DMG torrent-link)](https://nnmclub.to/forum/viewtopic.php?t=1648963) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download image macOS Sonoma 14.0 Beta 3 (23A5286g)-[(pkg Google drive-link)](https://drive.google.com/file/d/12me-6HmHc4KsN6egNGCVxjQv8V5KZFoM/view?usp=drive_link) - [(DMG Google drive-link)](https://drive.google.com/file/d/1_28RDbNshziNOqhoFqAH2mLcYk8cE2NE/view?usp=sharing)
+• Download image macOS Sonoma 14.0 Beta 5 (23A5312d)-[(pkg official link)](https://swcdn.apple.com/content/downloads/41/53/042-25574-A_YJ7607N1CB/dwkoslehspd77g1c717yvjfdpj9rq6c1s4/InstallAssistant.pkg) - [(DMG Google drive-link)](https://drive.google.com/file/d/1pkVCLoCYEksO3Qoj4szaXBe4IVV5q3N5/view?usp=sharing)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
@@ -39,9 +39,9 @@ How install windows on Mac :
 
 • Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• Download Bypass Microsoft Windows 11 [22631.2115], Version 23H2 (En) - Original image  [web link](https://comss.cloud/22631.2115.230714-1517.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_07_26.iso)
+• Download Bypass Microsoft Windows 11 [22631.2191], Version 23H2 (En) - Original image  [web link](https://comss.cloud/22631.2191.230801-2014.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_08_10.iso)
 
-• Download Bypass Microsoft Windows 11 [22631.2115], Version 23H2 (Ru) - Original image  [web link](https://comss.cloud/22631.2115.230714-1517.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_07_26.iso) 
+• Download Bypass Microsoft Windows 11 [22631.2191], Version 23H2 (Ru) - Original image  [web link](https://comss.cloud/22631.2191.230801-2014.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_08_10.iso) 
 
 • Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
 
