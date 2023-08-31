@@ -81,6 +81,8 @@ Downlaod Tools :
 
 • "Download Full installer app" for macOS - [Gihub Link](https://github.com/scriptingosx/DownloadFullInstaller)
 
+•  "MIST"  macOS Installer Super Tool - [Gihub Link](https://github.com/ninxsoft/Mist)
+
 • "About This Hack app" for macOS Ventura - [Github Link](https://github.com/0xCUB3/About-This-Hack)
 
 • OpenCore Legacy Patcher for macOS - [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher)
