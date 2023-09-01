@@ -136,13 +136,11 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 
 • VoodooPS2.kext [Gihub Link](https://github.com/acidanthera/VoodooPS2) 
 
-• [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) Lilu plugin providing patches to select GPUs on macOS. Requires Lilu 1.5.6 or newer.
+• [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) 
 
-• USBMap.kext [Gihub Link](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10427360/USBMap.kext.zip) Custom USB Driver SMBIOS iMac14,4
+• Wireless-USB.kext [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) 
 
-• Wireless-USB.kext [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) Support macOS Sonoma, Ventura, Monterey, Big Sur and Catalina Only! (DO NOT USE ON OTHER OS's)
-
-• CSRBluetoothInjector.kext [Gihub Link](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver Support macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
+• CSRBluetoothInjector.kext [Gihub Link](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) 
 
 • USBWakeFixup.kext [Gihub Link](https://github.com/osy/USBWakeFixup)
 
