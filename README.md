@@ -120,35 +120,35 @@ ________________________________________________________________________________
 Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/) 
 
 
-• [AppleALC.kext](https://github.com/acidanthera/AppleALC) An open source kernel extension enabling native macOS HD audio for not officially supported codecs without any filesystem modifications. AppleALCU can be used for systems with digital-only audio.
+• AppleALC.kext [Gihub Link](https://github.com/acidanthera/AppleALC)
 
-• [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases) OS X open source ethernet driver for the Realtek RTL8111/8168 family.Due to the lack of an OS X driver that makes use of the advanced features of the Realtek RTL81111/8168 series with the aim to create a state of the art driver that gets the most out of those NICs which can be found on virtually any cheap board on the market today.
+• RealtekRTL8111.kext [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 
-• [Lilu.kext](https://github.com/acidanthera/Lilu) An open source kernel extension bringing a platform for arbitrary kext, library, and program patching throughout the system for macOS.
+• Lilu.kext [Gihub Link](https://github.com/acidanthera/Lilu) 
 
-• [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) A Lilu plug-in for dynamic power management data injection -[Fix CPU Intel Core i3 4130](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784489/CPU_Fix.zip)
+• CPUFriend.kext [Gihub Link](https://github.com/acidanthera/CPUFriend) 
 
-• [CpuTscSync.kext](https://github.com/acidanthera/CpuTscSync) It is a Lilu plugin, combining functionality of VoodooTSCSync and disabling xcpm_urgency if TSC is not in sync. It should solve some kernel panics after wake.
+• CpuTscSync.kext [Gihub Link](https://github.com/acidanthera/CpuTscSync) 
 
-• [RestrictEvents.kext](https://github.com/acidanthera/RestrictEvents) Lilu Kernel extension for blocking unwanted processes causing compatibility issues on different hardware and unlocking the support for certain features restricted to other hardware.
+• RestrictEvents.kext [Gihub Link](https://github.com/acidanthera/RestrictEvents) 
 
-• [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC)  Advanced Apple SMC emulator in the kernel. Requires Lilu.
+• VirtualSMC.kext [Gihub Link](https://github.com/acidanthera/VirtualSMC)
 
-• [VoodooPS2.kext](https://github.com/acidanthera/VoodooPS2) Touchpad and Keyboard Driver uses VoodooInput's Magic Trackpad II emulation in order to use macOS native driver instead of handling all gestures itself. This enables the use of any from one to four finger gestures defined by Apple
+• VoodooPS2.kext [Gihub Link](https://github.com/acidanthera/VoodooPS2) 
 
 • [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) Lilu plugin providing patches to select GPUs on macOS. Requires Lilu 1.5.6 or newer.
 
-• [USBMap.kext.zip](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10427360/USBMap.kext.zip) Custom USB Driver SMBIOS iMac14,4
+• USBMap.kext [Gihub Link](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/10427360/USBMap.kext.zip) Custom USB Driver SMBIOS iMac14,4
 
-• [Wireless-USB.kext](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) Support macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina Only! (DO NOT USE ON OTHER OS's)
+• Wireless-USB.kext [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) Support macOS Sonoma, Ventura, Monterey, Big Sur and Catalina Only! (DO NOT USE ON OTHER OS's)
 
-• [CSRBluetoothInjector.kext](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver Support macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
+• CSRBluetoothInjector.kext [Gihub Link](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) USB Bluetooth CSR 4.0 Driver Support macOS Big Sur 11 only! (DO NOT USE ON OTHER OS's)
 
-• [USBWakeFixup.kext](https://github.com/osy/USBWakeFixup) On systems without a working Embedded Controller, waking up from a USB device might not wake up the display. A second key-press or mouse click is required to wake up the display. This extension is a workaround for that issue by creating a fake ACPI device with the right wakeup params.
+• USBWakeFixup.kext [Gihub Link](https://github.com/osy/USBWakeFixup)
 
-• [AMFIExemption.kext](https://github.com/osy/AMFIExemption) Adds allowed entitlements to non-Apple signed apps when SIP is enabled.
+• AMFIExemption.kext [Gihub Link](https://github.com/osy/AMFIExemption) 
 
-• [HibernationFixup.kext](https://github.com/acidanthera/HibernationFixup) An open source kernel extension providing a sync between RTC variables and NVRAM.
+• HibernationFixup.kext [Gihub Link](https://github.com/acidanthera/HibernationFixup) 
 
 _________________________________________________________________________________________________________________________________________________
  
