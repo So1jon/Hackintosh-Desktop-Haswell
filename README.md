@@ -136,7 +136,7 @@ Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.githu
 
 • VoodooPS2.kext [Gihub Link](https://github.com/acidanthera/VoodooPS2) 
 
-• [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) 
+• WhateverGreen.kext [Gihub Link](https://github.com/acidanthera/WhateverGreen) 
 
 • Wireless-USB.kext [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) 
 
