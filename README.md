@@ -19,9 +19,9 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Monterey 12.6.8 (21G725)-[(app Google drive-link)](https://drive.google.com/file/d/1tKsCSZVCWS926JKtBbGwgcMifxuzvpDC/view?usp=drive_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
-• Download image macOS Ventura 13.5.1 (22G90)-[(DMG Google drive-link)](https://drive.google.com/file/d/1qOnZsj8EGUOcVYox9KZljVrWhA0U0jJ5/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
+• Download image macOS Ventura 13.5.2 (22G91)-[(DMG Google drive-link)](https://drive.google.com/file/d/1b5TlWf0vI17z9cWL0s3aLO7jWxnZoFwa/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
-• Download image macOS Sonoma 14.0 Beta 6 (23A5328b)-[(pkg official-link)](https://swcdn.apple.com/content/downloads/44/25/042-37835-A_BEAOB8L7HU/1qzvpcz2hplmg557cci42sr49egqus76v1/InstallAssistant.pkg) - [(DMG Google drive-link)](https://drive.google.com/file/d/1O0xMxWwaJgBO67TfuCcpaNnbY5KEW4PY/view?usp=sharing)
+• Download image macOS Sonoma 14.0 Beta 7 (23A5337a)-[(pkg official-link)](https://swcdn.apple.com/content/downloads/14/54/042-41491-A_WCZEM7L2US/b5eeeylcnmf82ycto51pvy0klcyzd02on8/InstallAssistant.pkg) - [(DMG Google drive-link)](https://drive.google.com/file/d/1FgkfiXhaKfVXMpzf8R4CbYFOnG7Ts5Q3/view?usp=sharing)
 
 • How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
 
