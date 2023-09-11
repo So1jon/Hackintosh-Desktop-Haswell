@@ -17,7 +17,7 @@ How to create macOS Bootable usb drive:
 
 • Download image macOS Big Sur 11.7.9 (20G1426)-[(app Google drive-link)](https://drive.google.com/file/d/1XtrmxwTXmmlSo-0ik4hf4e-CRqmKw-_z/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=5928524)
 
-• Download image macOS Monterey 12.6.8 (21G725)-[(app Google drive-link)](https://drive.google.com/file/d/1tKsCSZVCWS926JKtBbGwgcMifxuzvpDC/view?usp=drive_link) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
+• Download image macOS Monterey 12.6.8 (21G725)-[(DMG Google drive-link)](https://drive.google.com/file/d/1vp5_igR_AK3UQNSZk0YZfpl8H-__Y9J1/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
 
 • Download image macOS Ventura 13.5.2 (22G91)-[(DMG Google drive-link)](https://drive.google.com/file/d/1b5TlWf0vI17z9cWL0s3aLO7jWxnZoFwa/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
 
