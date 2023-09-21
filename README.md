@@ -69,14 +69,14 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-| Components                                       | Kexts                 |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links     |
-| ------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------- |
-| Open source kernel extension                     | Lilu                  | [Gihub Link](https://github.com/acidanthera/Lilu)                                                 |
-| Advanced Apple SMC emulator in the kernel        | VirtualSMC            | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                           |
-| Lilu plugin providing patches to select GPUs     | WhateverGreen         | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                        |
-| Kernel extension for blocking unwanted processes | RestrictEvents        | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                       |
-| Kernel extension     |                       |                                                                                                   |
-| Kernel extension     |                       |                                                                                                   |
+| Components                                                     | Kexts                 |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links     |
+| -------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------- |
+| Open source kernel extension                                   | Lilu                  | [Gihub Link](https://github.com/acidanthera/Lilu)                                                 |
+| Advanced Apple SMC emulator in the kernel                      | VirtualSMC            | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                           |
+| Lilu plugin providing patches to select GPUs                   | WhateverGreen         | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                        |
+| Kernel extension for blocking unwanted processes               | RestrictEvents        | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                       |
+| An open source kernel extension enabling native macOS HD audio | AppleALC              | [Gihub Link](https://github.com/acidanthera/AppleALC)                                             |
+| New Trackpad uses emulation to use the built-in macOS driver   | VoodooPS2             | [Gihub Link](https://github.com/acidanthera/VoodooPS2)                                            |
 | Kernel extension     |                       |                                                                                                   |
 | Kernel extension     |                       |                                                                                                   |
 | Kernel extension     |                       |                                                                                                   | 
@@ -86,7 +86,7 @@ ________________________________________________________________________________
 
 
 
-• AppleALC.kext [Gihub Link](https://github.com/acidanthera/AppleALC)
+ 
 
 • RealtekRTL8111.kext [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 
@@ -96,14 +96,7 @@ ________________________________________________________________________________
 
 • CpuTscSync.kext [Gihub Link](https://github.com/acidanthera/CpuTscSync) 
 
- [Gihub Link](https://github.com/acidanthera/RestrictEvents) 
-
  
-
-• VoodooPS2.kext [Gihub Link](https://github.com/acidanthera/VoodooPS2) 
-
- 
-
 • Wireless-USB.kext [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) 
 
 • CSRBluetoothInjector.kext [Gihub Link](https://github.com/So1jon/Gigabayte-Z87-DS3H-Intel-Core-i3-4130-Intel-HD-Graphics-4400/files/9784693/CSRBluetoothInjector.kext.zip) 
