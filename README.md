@@ -103,7 +103,7 @@ ________________________________________________________________________________
 | Windows Install          | 5.9.1      | [official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
 | Bypass Registry          | Release    | [Github link](https://github.com/haithamaouati/BW11)                                                               |
 | Brigadier                | Release    | [Github link](https://codeload.github.com/timsutton/brigadier/zip/main)                                            |
-| Brigadier Command        | Release    | [Google drive-link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)                        |
+| Brigadier Command        | Release    | [Google drive link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)                        |
 | Win10 EFI Folder         | Release    | [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)                        |
 | TransMac                 | Release    | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
 | HFS+ Paragon Software    | Release    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
