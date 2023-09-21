@@ -75,6 +75,11 @@ ________________________________________________________________________________
 | Adds allowed entitlements to non-Apple signed apps when SIP is enabled           | AMFIExemption.kext            | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
 | Drivers for Cambridge Silicon Radio 4.0 USB Bluetooth adapters                   | CSRBluetoothInjector.kext     | [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
 
+### Special Config:
+
+-   Usb port mapping performed
+-   SSDT-Hack Essential patc
+
 _________________________________________________________________________________________________________________________________________________
 
 ### Download the tools :
@@ -103,31 +108,42 @@ ________________________________________________________________________________
 | TransMac                 | Release    | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
 | HFS+ Paragon Software    | Release    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
 
+### MacOS bootable USB creation:
+
+-   Read the Dortania guide for creating your USB from Windows or macOS
+-   [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) - USB creation
+
 _________________________________________________________________________________________________________________________________________________
 
+### What works:
 
-Work?? -
+-   [x]AMD Radeon RX 580
 
-• AMD Radeon RX 580
+-   [x]Intel HD Graphics 4400 
 
-• Intel HD Graphics 4400 
+-   [x]CPU Power Management 
 
-• CPU Power Management 
+-   [x]Restart, Sleep and Shutdown 
 
-• Restart, Sleep and Shutdown 
+-   [x]Ethernet 
 
-• Ethernet 
+-   [x]USB Wi-Fi 
 
-• USB Wi-Fi 
+-   [x]USB Bluetooth 
 
-• USB Bluetooth 
+-   [x]Audio Output from Front and Rear Jack 
 
-• Audio Output from Front and Rear Jack 
-
-• HDMI Out
+-   [x]HDMI Out
  
-• HDMI Audio 
+-   [x]HDMI Audio 
 
-• All USB Ports
+-   [x]All USB Ports
+
+
+## Credits
+
+-   [Apple](https://apple.com) for macOS.
+-   [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+
 
 _________________________________________________________________________________________________________________________________________________
