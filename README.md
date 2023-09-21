@@ -77,8 +77,8 @@ ________________________________________________________________________________
 
 ### Special Config:
 
--   Usb port mapping performed
--   SSDT-Hack Essential patc
+- Usb port mapping performed
+- SSDT-Hack Essential patc
 
 _________________________________________________________________________________________________________________________________________________
 
@@ -110,8 +110,8 @@ ________________________________________________________________________________
 
 ### MacOS bootable USB creation:
 
--   Read the Dortania guide for creating your USB from Windows or macOS
--   [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) - USB creation
+- Read the Dortania guide for creating your USB from Windows or macOS
+- [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) - USB creation
 
 _________________________________________________________________________________________________________________________________________________
 
@@ -119,31 +119,31 @@ ________________________________________________________________________________
 
 - AMD Radeon RX 580
 
-- [x]Intel HD Graphics 4400 
+- Intel HD Graphics 4400 
 
-- [x]CPU Power Management 
+- CPU Power Management 
 
-- [x]Restart, Sleep and Shutdown 
+- Restart, Sleep and Shutdown 
 
-- [x]Ethernet 
+- Ethernet 
 
-- [x]USB Wi-Fi 
+- USB Wi-Fi 
 
-- [x]USB Bluetooth 
+- USB Bluetooth 
 
-- [x]Audio Output from Front and Rear Jack 
+- Audio Output from Front and Rear Jack 
 
-- [x]HDMI Out
+- HDMI Out
  
-- [x]HDMI Audio 
+- HDMI Audio 
 
-- [x]All USB Ports
+- All USB Ports
 
 
 ## Credits
 
--   [Apple](https://apple.com) for macOS.
--   [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Apple](https://apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 
 
 _________________________________________________________________________________________________________________________________________________
