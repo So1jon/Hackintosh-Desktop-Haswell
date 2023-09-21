@@ -69,20 +69,20 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-| Components           | Kexts                 |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links               |
-| -------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Kernel extension     | Lilu                  | [Gihub Link](https://github.com/acidanthera/Lilu)                                                           |
-| Apple SMC emulator   | VirtualSMC            | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                     |
-| Kernel extension     | RestrictEvents        | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                                 |
-| Plugin for Fix GPU   | WhateverGreen         | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                                  |
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             | 
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             |
+| Components                                       | Kexts                 |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links     |
+| ------------------------------------------------ | --------------------- | ------------------------------------------------------------------------------------------------- |
+| Open source kernel extension                     | Lilu                  | [Gihub Link](https://github.com/acidanthera/Lilu)                                                 |
+| Advanced Apple SMC emulator in the kernel        | VirtualSMC            | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                           |
+| Lilu plugin providing patches to select GPUs     | WhateverGreen         | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                        |
+| Kernel extension for blocking unwanted processes | RestrictEvents        | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                       |
+| Kernel extension     |                       |                                                                                                   |
+| Kernel extension     |                       |                                                                                                   |
+| Kernel extension     |                       |                                                                                                   |
+| Kernel extension     |                       |                                                                                                   |
+| Kernel extension     |                       |                                                                                                   | 
+| Kernel extension     |                       |                                                                                                   |
+| Kernel extension     |                       |                                                                                                   |
+| Kernel extension     |                       |                                                                                                   |
 
 
 
