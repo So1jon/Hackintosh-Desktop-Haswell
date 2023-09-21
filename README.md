@@ -43,27 +43,6 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________
 
 
-How install windows on Mac :
-
-• Script from Sergey_Galan  Windows Install [Version 5.7](https://i.applelife.ru/2021/11/493507_Windows_Install_5.7.zip) [applelife.ru link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961) - [Version 2.5 Google drive link](https://drive.google.com/file/d/1m29LIGJOVr4UV2RkyqeOZkMV6XzFKhqJ/view)
-
-• Install windows on Mac (no bootcamp only for intel platform)-[Youtube link](https://youtu.be/3_h9yOvrAKc) Russian manual-[Youtube link](https://youtu.be/5pBLnKHz6c0)
-
-• How to Install Windows 11 on Mac Without Boot Camp - [Youtube link](https://youtu.be/flxXlArDFCY)
-
-
-
-
-• Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
-
-• Download Brigadier - [website link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmV6eWdUZDdsRUZ2U1UxVFFZY29BVDYwckR5QXxBQ3Jtc0tuaXN1eVdTYXBDTlY0NDhCWUQzZ3BGYmkzUVRfaHF1Nm9aNkhPbVBweXFqTmsyMTZZUFk3RkMwZ0ZKbzB4VEFtWFNLTUQwS3F2TVVkT2tOVmRTUm1NQXNfSHNQcmhDdkw3SjBleVpQQ3ZBeTBLdnBxbw&q=https%3A%2F%2Fbit.ly%2F3aRRu0M&v=flxXlArDFCY)  Command - [Google drive-link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)
-
-• How to Create Windows 11 Bootable USB Drive on Mac (manual) [100% Working Method Youtube-link](https://youtu.be/yfaaVDBqrvI)
-
-• Windows 10 Bootable USB Boot Folder ( EFI Folder ) [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)
-
-_________________________________________________________________________________________________________________________________________________
-
 ### Downlaod Tools :
 
 | Name                     | Version    | Links                                                                                                              |
@@ -72,37 +51,24 @@ ________________________________________________________________________________
 | Python                   | 3.11.5     | [official link](https://www.python.org/downloads/macos/)                                                           |
 | Proper Tree              | 0.2.5      | [Github link](https://github.com/corpnewt/ProperTree)                                                              | 
 | OcBinaryData             | QEMU 8.0.0 | [Github link](https://github.com/acidanthera/OcBinaryData)                                                         |
+| GenSMBIOS                | Release    | [Github link](https://github.com/corpnewt/GenSMBIOS)                                                               |
+| ssdtPRGen.sh             | Release    | [Github link](https://github.com/Piker-Alpha/ssdtPRGen.sh)                                                         |
+| SSDTTime                 | Release    | [Github Link](https://github.com/corpnewt/SSDTTime)                                                                |
+| USBMap                   | Release    | [Github Link](https://github.com/corpnewt/USBMap)                                                                  |
+| USBToolBox/tool          | 0.2        | [Gihub Link](https://github.com/USBToolBox/tool)                                                                   |
+| RadeonSensor             | 1.3.0      | [Gihub Link](https://github.com/ChefKissInc/RadeonSensor/releases)                                                 |
+| MIST                     | 0.9.1      | [Gihub Link](https://github.com/ninxsoft/Mist)                                                                     |
+| About This Hack          | 0.9.1      | [Github link](https://github.com/0xCUB3/About-This-Hack/releases)                                                  |
+| OpenCore Legacy Patcher  | 0.6.8      | [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)                                         |
+| Kernel Debug Kit         | Release    | [Official link](https://developer.apple.com/download/all/)                                                         |
+| Windows Install          | 5.9.1      | [official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
+| Bypass Registry          | Release    | [Github link](https://github.com/haithamaouati/BW11)                                                               |
+| Brigadier                | Release    | [Github link](https://codeload.github.com/timsutton/brigadier/zip/main)                                            |
+| Brigadier Command        | Release    | [Google drive-link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)                        |
+| Win10 EFI Folder         | Release    | [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)                        |
+| TransMac                 | Release    | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
+| HFS+ Paragon Software    | Release    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
 
-
-•         - 
-
-• OcBinaryData       - [Github link](https://github.com/acidanthera/OcBinaryData)
-
-• GenSMBIOS          - [Github link](https://github.com/corpnewt/GenSMBIOS)
-
-• ssdtPRGen.sh       - [Github link](https://github.com/Piker-Alpha/ssdtPRGen.sh)
-
-• SSDTTime           - [Github Link](https://github.com/corpnewt/SSDTTime)
-
-• USBMap             - [Github Link](https://github.com/corpnewt/USBMap)
-
-• USBToolBox/tool    - [Gihub Link](https://github.com/USBToolBox/tool)
-
-• RadeonSensor       - [Gihub Link](https://github.com/NootInc/RadeonSensor)
-
-• TransMac           - [Official link](https://www.acutesystems.com/scrtm.htm)
-
-• HFS+ for Windows by Paragon Software - [Official link](https://www.paragon-software.com/home/hfs-windows/)
-
-• "Download Full installer app" for macOS - [Gihub Link](https://github.com/scriptingosx/DownloadFullInstaller)
-
-•  "MIST"  macOS Installer Super Tool - [Gihub Link](https://github.com/ninxsoft/Mist)
-
-• "About This Hack app" for macOS Ventura - [Github Link](https://github.com/0xCUB3/About-This-Hack)
-
-• OpenCore Legacy Patcher for macOS - [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher)
- 
-• Download Kernel Debug Kit for macOS - [Official link](https://developer.apple.com/download/all/)
 _________________________________________________________________________________________________________________________________________________
 
 Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/) 
