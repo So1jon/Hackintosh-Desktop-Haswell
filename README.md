@@ -12,6 +12,24 @@ Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCor
 
 _________________________________________________________________________________________________________________________________________________
 
+### My computer hardware specifications:
+
+| Component   | Name                                    |  Brand Links                                                                                                                        |
+| ----------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Motherboard | Z87-DS3H v1.1                           | [Gigabayte](https://www.gigabyte.com/Motherboard/GA-Z87-DS3H-rev-11#ov)                                                             |
+| CPU         | Intel® Core® i3 4130                    | [Intel Haswell](https://ark.intel.com/content/www/us/en/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html)      |
+| iGPU        | Intel® HD Graphics 4400                 | [Intel Haswell](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop)           |
+| dGPU        | AMD Radeon RX 580 8GB                   | [Sapphire NITRO+](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5)                                                   |
+| Ram         | DDR3 16GB / 1600Mhz                     | [Kingston](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf)                                                                    |
+| Storage     | SSD 480GB SATA III 6Gb/s                | [PNY CS900](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/)                                                         |
+| Ethernet    | RTL8111E-VL 1.0 Gigabit/s               | [Realtek](https://4ip.info/files/attachments/RTL8111E.pdf)                                                                          |
+| Audio       | Codec ALC887                            | [Realtek](http://www.chipset-ic.com/datasheet/ALC887.pdf)                                                                           |
+| USB Wi-Fi   | TL-WN725N V3                            | [TP-Link](https://www.tp-link.com/us/support/download/tl-wn725n/)                                                                   |
+|USB Bluetooth| Cambridge Silicon Radio 4.0             | [CSR](https://en.wikipedia.org/wiki/CSR_plc)                                                                                        |
+| USB Camera  | Z-Star Microelectronics Corporation     | [Vimicro](http://www.vimicro.com/english/product/pc001.htm)                                                                         |
+
+_________________________________________________________________________________________________________________________________________________
+
 
 How to create macOS Bootable usb drive:
 
@@ -89,33 +107,6 @@ Downlaod Tools :
  
 • Download Kernel Debug Kit for macOS - [Official link](https://developer.apple.com/download/all/)
 _________________________________________________________________________________________________________________________________________________
-
-Hardware Specifications -
-
-• Motherboard : [Z87-DS3H v1.1](https://www.gigabyte.com/Motherboard/GA-Z87-DS3H-rev-11#ov) Gigabayte 
-
-• CPU : [Core i3 4130](https://ark.intel.com/content/www/us/en/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html) Intel Haswell
- 
-• iGPU : [Desktop HD Graphics 4400](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop) Intel Haswell
-
-• dGPU : [AMD Radeon RX 580 8GB](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5) Sapphire NITRO+
-
-• RAM : [4x4GB DDR3 / 1600Mhz](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf) Kingston
- 
-• Storage : [SSD 480GB SATA-III 6Gb/s](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/) PNY CS900 
- 
-• Ethernet : [Realtek RTL8111E-VL](https://4ip.info/files/attachments/RTL8111E.pdf) Gigabit Ethernet
- 
-• Wi-Fi : USB [TL-WN725N V3](https://www.tp-link.com/us/support/download/tl-wn725n/) TP-Link 
-
-• Bluetooth : USB [CSR 4.0](https://russian.alibaba.com/p-detail/Universal-1600104012497.html?spm=a2700.7724857.0.0.eaefdcc1UmOoT3) Cambridge Silicon Radio
- 
-• Audio Codec : [ALC887](http://www.chipset-ic.com/datasheet/ALC887.pdf) Realtek 
- 
-• Boot Mode : UEFI
-
-_________________________________________________________________________________________________________________________________________________
-
 
 Kexts - [Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/) 
 
