@@ -51,11 +51,8 @@ How install windows on Mac :
 
 • How to Install Windows 11 on Mac Without Boot Camp - [Youtube link](https://youtu.be/flxXlArDFCY)
 
-• Download windows 11 image from microsoft official [website link](https://www.microsoft.com/ru-ru/software-download/windows11)
 
-• Download Bypass Microsoft Windows 11 [22631.2338], Version 23H2 (En) - Original image  [web link](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_09_13.iso)
 
-• Download Bypass Microsoft Windows 11 [22631.2338], Version 23H2 (Ru) - Original image  [web link](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_09_13.iso) 
 
 • Download Bypass Registry - [Github link](https://github.com/haithamaouati/BW11)
 
@@ -67,13 +64,17 @@ How install windows on Mac :
 
 _________________________________________________________________________________________________________________________________________________
 
-Downlaod Tools :
+### Downlaod Tools :
 
-• OpenCore Auxiliary Tools (OCAT) - [Github link](https://github.com/ic005k/OCAuxiliaryTools)
+| Name                     | Version    | Links                                                                                                              |
+| ------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------ |
+| OpenCore Auxiliary Tools | 20230022   | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
+| Python                   | 3.11.5     | [official link](https://www.python.org/downloads/macos/)                                                           |
+| Proper Tree              | 0.2.5      | [Github link](https://github.com/corpnewt/ProperTree)                                                              | 
+| OcBinaryData             | QEMU 8.0.0 | [Github link](https://github.com/acidanthera/OcBinaryData)                                                         |
 
-• Python Releases for macOS [official website link](https://www.python.org/downloads/macos/) for Windows [official website link](https://www.python.org/downloads/windows/)
 
-• Proper Tree        - [Github link](https://github.com/corpnewt/ProperTree)
+•         - 
 
 • OcBinaryData       - [Github link](https://github.com/acidanthera/OcBinaryData)
 
