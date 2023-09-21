@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 ### Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
-### Bootloader : [OpenCore Lasted RELEASE Version](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/acidanthera)
+### Bootloader : [OpenCore](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/acidanthera)
 
 ### Geekbench 6.1.0  Result Information: 
 | iMacPro1,1            | Result  | ID Information                                                |
