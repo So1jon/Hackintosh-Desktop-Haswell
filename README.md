@@ -40,6 +40,21 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
+### Intel 8 Series/C220 Series Chipset Family BIOS settings:
+|       Disable                                                          |    Enable                                                                           |
+|----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Fast Boot                                                              | VT-x                                                                                |
+| Secure Boot                                                            | Above 4G Decoding                                                                   |
+| Serial/COM Port                                                        | Hyper-Threading                                                                     |
+| Parallel Port                                                          | Execute Disable Bit                                                                 |
+| VT-d (can be enabled if you set DisableIoMapper to YES)                | EHCI/XHCI Hand-off                                                                  |
+| Compatibility Support Module (CSM)                                     | OS type: "Other OS" UEFI Mode                                                       |
+| Intel SGX                                                              | DVMT Pre-Allocated(iGPU Memory): 64MB or higher                                     |
+| Intel Platform Trust                                                   | SATA Mode: AHCI                                                                     |
+| CFG Lock (MSR 0xE2 write protection)                                   |                                                                                     |
+
+_________________________________________________________________________________________________________________________________________________
+
 | Specifications                                                                   | Kexts                         | [Builds/Dortania](https://dortania.github.io/builds/)  Links                                                    |
 | -------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Open source kernel extension                                                     | Lilu.kext                     | [Gihub Link](https://github.com/acidanthera/Lilu)                                                               |
