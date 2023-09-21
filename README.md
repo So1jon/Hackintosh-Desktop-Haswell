@@ -1,6 +1,6 @@
 _________________________________________________________________________________________________________________________________________________
 
-Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
+### Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
 • Bootloader : [OpenCore Lasted RELEASE Version](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/orgs/acidanthera/repositories)
 
