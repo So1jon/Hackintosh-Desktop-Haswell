@@ -117,27 +117,27 @@ ________________________________________________________________________________
 
 ### What works:
 
--   [x]AMD Radeon RX 580
+- [x]AMD Radeon RX 580
 
--   [x]Intel HD Graphics 4400 
+- [x]Intel HD Graphics 4400 
 
--   [x]CPU Power Management 
+- [x]CPU Power Management 
 
--   [x]Restart, Sleep and Shutdown 
+- [x]Restart, Sleep and Shutdown 
 
--   [x]Ethernet 
+- [x]Ethernet 
 
--   [x]USB Wi-Fi 
+- [x]USB Wi-Fi 
 
--   [x]USB Bluetooth 
+- [x]USB Bluetooth 
 
--   [x]Audio Output from Front and Rear Jack 
+- [x]Audio Output from Front and Rear Jack 
 
--   [x]HDMI Out
+- [x]HDMI Out
  
--   [x]HDMI Audio 
+- [x]HDMI Audio 
 
--   [x]All USB Ports
+- [x]All USB Ports
 
 
 ## Credits
