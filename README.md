@@ -40,6 +40,24 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
+| Specifications                                                                   | Kexts               |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links                   |
+| -------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Open source kernel extension                                                     | Lilu                | [Gihub Link](https://github.com/acidanthera/Lilu)                                                               |
+| Advanced Apple SMC emulator in the kernel                                        | VirtualSMC          | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                         |
+| Lilu plugin for providing patches to select GPUs                                 | WhateverGreen       | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                                      |
+| Lilu plugin for dynamic power management data injection                          | CPUFriend           | [Gihub Link](https://github.com/acidanthera/CPUFriend)                                                          |
+| Lilu plugin that combines the functionality of VoodooTSCSync                     | CpuTscSync          | [Gihub Link](https://github.com/acidanthera/CpuTscSync)                                                         |
+| Kernel extension for blocking unwanted processes                                 | RestrictEvents      | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                                     |
+| An open source kernel extension enabling native macOS HD audio                   | AppleALC            | [Gihub Link](https://github.com/acidanthera/AppleALC)                                                           |
+| New Trackpad uses emulation to use the built-in macOS driver                     | VoodooPS2           | [Gihub Link](https://github.com/acidanthera/VoodooPS2)                                                          |
+| OS X open source driver for the Realtek RTL8111/8168 family                      | RealtekRTL8111      | [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)                                         | 
+| Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters                      | RtWlanU RtWlanU1827 | [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)                                         |
+| USB Wake Controller                                                              | USBWakeFixup        | [Gihub Link](https://github.com/osy/USBWakeFixup)                                                               |
+| An open source kernel extension providing a sync between RTC variables and NVRAM | HibernationFixup    | [Gihub Link](https://github.com/acidanthera/HibernationFixup)                                                   |
+| Adds allowed entitlements to non-Apple signed apps when SIP is enabled           | AMFIExemption       | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
+| Drivers for Cambridge Silicon Radio 4.0 USB Bluetooth adapters                   | CSRBluetoothInjector| [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
+
+_________________________________________________________________________________________________________________________________________________
 
 ### Download the tools :
 
@@ -69,25 +87,6 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-| Components                                                                       | Kexts               |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links                   |
-| -------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Open source kernel extension                                                     | Lilu                | [Gihub Link](https://github.com/acidanthera/Lilu)                                                               |
-| Advanced Apple SMC emulator in the kernel                                        | VirtualSMC          | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                         |
-| Lilu plugin for providing patches to select GPUs                                 | WhateverGreen       | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                                      |
-| Lilu plugin for dynamic power management data injection                          | CPUFriend           | [Gihub Link](https://github.com/acidanthera/CPUFriend)                                                          |
-| Lilu plugin that combines the functionality of VoodooTSCSync                     | CpuTscSync          | [Gihub Link](https://github.com/acidanthera/CpuTscSync)                                                         |
-| Kernel extension for blocking unwanted processes                                 | RestrictEvents      | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                                     |
-| An open source kernel extension enabling native macOS HD audio                   | AppleALC            | [Gihub Link](https://github.com/acidanthera/AppleALC)                                                           |
-| New Trackpad uses emulation to use the built-in macOS driver                     | VoodooPS2           | [Gihub Link](https://github.com/acidanthera/VoodooPS2)                                                          |
-| OS X open source driver for the Realtek RTL8111/8168 family                      | RealtekRTL8111      | [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)                                         | 
-| Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters                      | RtWlanU RtWlanU1827 | [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)                                         |
-| USB Wake Controller                                                              | USBWakeFixup        | [Gihub Link](https://github.com/osy/USBWakeFixup)                                                               |
-| An open source kernel extension providing a sync between RTC variables and NVRAM | HibernationFixup    | [Gihub Link](https://github.com/acidanthera/HibernationFixup)                                                   |
-| Adds allowed entitlements to non-Apple signed apps when SIP is enabled           | AMFIExemption       | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
-| Drivers for Cambridge Silicon Radio 4.0 USB Bluetooth adapters                   | CSRBluetoothInjector| [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
-
-_________________________________________________________________________________________________________________________________________________
- 
 
 Work?? -
 
