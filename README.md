@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ### My computer hardware specifications:
 
-| Component   | Name                                    |  Brand Links                                                                                                                        |
+| Components  | Name                                    |  Brand Links                                                                                                                        |
 | ----------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Motherboard | Z87-DS3H v1.1                           | [Gigabayte](https://www.gigabyte.com/Motherboard/GA-Z87-DS3H-rev-11#ov)                                                             |
 | CPU         | Intel® Core® i3 4130                    | [Intel Haswell](https://ark.intel.com/content/www/us/en/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html)      |
@@ -69,12 +69,12 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-| Component            | Kexts            |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links                    |
+| Components           | Kexts                 |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links               |
 | -------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Kernel extension     |  Lilu                 | [Gihub Link](https://github.com/acidanthera/Lilu)                                                           |
-| Apple SMC emulator   |  VirtualSMC           | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                     |
-| Kernel extension     |                       |                                                                                                             |
-| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     | Lilu                  | [Gihub Link](https://github.com/acidanthera/Lilu)                                                           |
+| Apple SMC emulator   | VirtualSMC            | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                     |
+| Kernel extension     | RestrictEvents        | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                                 |
+| Plugin for Fix GPU   | WhateverGreen         | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                                  |
 | Kernel extension     |                       |                                                                                                             |
 | Kernel extension     |                       |                                                                                                             |
 | Kernel extension     |                       |                                                                                                             |
@@ -96,13 +96,13 @@ ________________________________________________________________________________
 
 • CpuTscSync.kext [Gihub Link](https://github.com/acidanthera/CpuTscSync) 
 
-• RestrictEvents.kext [Gihub Link](https://github.com/acidanthera/RestrictEvents) 
+ [Gihub Link](https://github.com/acidanthera/RestrictEvents) 
 
  
 
 • VoodooPS2.kext [Gihub Link](https://github.com/acidanthera/VoodooPS2) 
 
-• WhateverGreen.kext [Gihub Link](https://github.com/acidanthera/WhateverGreen) 
+ 
 
 • Wireless-USB.kext [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter) 
 
