@@ -127,17 +127,19 @@ ________________________________________________________________________________
 
 - Ethernet 
 
+- Audio Output from Front and Rear Jack 
+
+- All USB Ports
+
 - USB Wi-Fi 
 
 - USB Bluetooth 
-
-- Audio Output from Front and Rear Jack 
 
 - HDMI Out
  
 - HDMI Audio 
 
-- All USB Ports
+
 
 
 ## Credits
