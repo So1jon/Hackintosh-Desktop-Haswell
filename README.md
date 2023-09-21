@@ -30,19 +30,15 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
+### My computer is fully tested on the following operating systems:
 
-How to create macOS Bootable usb drive:
-
-• Download image macOS Big Sur 11.7.10 (20G1427)-[(app Google drive-link)](https://drive.google.com/file/d/1QQqPaeKqBuZv5LSfzOd_e2NiQHiR92D_/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=5928524)
-
-• Download image macOS Monterey 12.6.9 (21G726)-[(app Google drive-link)](https://drive.google.com/file/d/1tNgnxK6J5BH3KibsgdbE_8QEERit2xJC/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6066530)
-
-• Download image macOS Ventura 13.5.2 (22G91)-[(DMG Google drive-link)](https://drive.google.com/file/d/1b5TlWf0vI17z9cWL0s3aLO7jWxnZoFwa/view?usp=sharing) via windows [(rdr torrent-link)](https://rutracker.org/forum/viewtopic.php?t=6223477)
-
-• Download image macOS Sonoma 14.0 Beta 7 (23A5337a)-[(pkg official-link)](https://swcdn.apple.com/content/downloads/14/54/042-41491-A_WCZEM7L2US/b5eeeylcnmf82ycto51pvy0klcyzd02on8/InstallAssistant.pkg) - [(DMG Google drive-link)](https://drive.google.com/file/d/1FgkfiXhaKfVXMpzf8R4CbYFOnG7Ts5Q3/view?usp=sharing)
-
-• How to create macOS Bootable usb drive on Windows (manual) [Youtube link](https://youtu.be/AhMETX7U1EY)
-
+| Name           | Version | Build      | Image links                                                                                                                                                                                                                                                       |
+| -------------- | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| macOS Sonoma   | 14.0    | 23A5337a   | [DMG](https://drive.google.com/file/d/1FgkfiXhaKfVXMpzf8R4CbYFOnG7Ts5Q3/view?usp=sharing) / [pkg](https://swcdn.apple.com/content/downloads/14/54/042-41491-A_WCZEM7L2US/b5eeeylcnmf82ycto51pvy0klcyzd02on8/InstallAssistant.pkg)                                 |
+| macOS Ventura  | 13.5.2  | 22G91      | [DMG](https://drive.google.com/file/d/1b5TlWf0vI17z9cWL0s3aLO7jWxnZoFwa/view?usp=sharing) / [rdr](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
+| macOS Monterey | 12.6.9  | 21G726     | [app](https://drive.google.com/file/d/1tNgnxK6J5BH3KibsgdbE_8QEERit2xJC/view?usp=sharing) / [rdr](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
+| macOS Big Sur  | 11.7.10 | 20G1427    | [app](https://drive.google.com/file/d/1QQqPaeKqBuZv5LSfzOd_e2NiQHiR92D_/view?usp=sharing) / [rdr](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
+| Windows  11    | 23H2    | 22631.2338 | [iso EN](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_09_13.iso) / [iso RU](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_09_13.iso) |
 
 _________________________________________________________________________________________________________________________________________________
 
