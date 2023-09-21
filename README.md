@@ -51,10 +51,10 @@ ________________________________________________________________________________
 | Serial/COM Port                                                        | Hyper-Threading                                                                     |
 | Parallel Port                                                          | Execute Disable Bit                                                                 |
 | VT-d (can be enabled if you set DisableIoMapper to YES)                | EHCI/XHCI Hand-off                                                                  |
-| Compatibility Support Module (CSM)                                     | OS type: "Other OS" UEFI Mode                                                       |
-| Intel SGX                                                              | DVMT Pre-Allocated(iGPU Memory): 64MB or higher                                     |
-| Intel Platform Trust                                                   | SATA Mode: AHCI                                                                     |
-| CFG Lock (MSR 0xE2 write protection)                                   |                                                                                     |
+| Compatibility Support Module (CSM)                                     | OS type: "Other OS"                                                                 |
+| Intel SGX                                                              | UEFI Mode                                                                           |
+| Intel Platform Trust                                                   | DVMT Pre-Allocated(iGPU Memory): 64MB or higher                                     |
+| CFG Lock (MSR 0xE2 write protection)                                   | SATA Mode: AHCI                                                                     |
 
 _________________________________________________________________________________________________________________________________________________
 
