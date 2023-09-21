@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-| Specifications                                                                   | Kexts                         | [Dortania- Builds](https://dortania.github.io/builds/)  Links                                                   |
+| Specifications                                                                   | Kexts                         | [Builds/Dortania](https://dortania.github.io/builds/)  Links                                                    |
 | -------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Open source kernel extension                                                     | Lilu.kext                     | [Gihub Link](https://github.com/acidanthera/Lilu)                                                               |
 | Advanced Apple SMC emulator in the kernel                                        | VirtualSMC.kext               | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                         |
