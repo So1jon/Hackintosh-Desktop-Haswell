@@ -11,12 +11,6 @@ ________________________________________________________________________________
 | CPU Multi-Core Score  | 1739     | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
 | dGPU Metal Score      | 44618    | [ID 624217](https://browser.geekbench.com/v6/compute/624217) |
 
-
-
-for macOS CPU AVX2 [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)
-
-• Geekbench 6 for macOS dGPU Metal Result Information [ID 624217](https://browser.geekbench.com/v6/compute/624217)
-
 _________________________________________________________________________________________________________________________________________________
 
 ### My computer hardware specifications:
