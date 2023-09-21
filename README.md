@@ -69,16 +69,28 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-| Component  | Kexts                 |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links                         |
-| ---------- | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
-|            |                       |                                                                                                                       |
+| Component            | Kexts            |[Dortania](https://dortania.github.io) - [Builds](https://dortania.github.io/builds/)    Links                    |
+| -------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Kernel extension     |  Lilu                 | [Gihub Link](https://github.com/acidanthera/Lilu)                                                           |
+| Apple SMC emulator   |  VirtualSMC           | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                     |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             | 
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+| Kernel extension     |                       |                                                                                                             |
+
 
 
 • AppleALC.kext [Gihub Link](https://github.com/acidanthera/AppleALC)
 
 • RealtekRTL8111.kext [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 
-• Lilu.kext [Gihub Link](https://github.com/acidanthera/Lilu) 
+  
 
 • CPUFriend.kext [Gihub Link](https://github.com/acidanthera/CPUFriend) 
 
@@ -86,7 +98,7 @@ ________________________________________________________________________________
 
 • RestrictEvents.kext [Gihub Link](https://github.com/acidanthera/RestrictEvents) 
 
-• VirtualSMC.kext [Gihub Link](https://github.com/acidanthera/VirtualSMC)
+ 
 
 • VoodooPS2.kext [Gihub Link](https://github.com/acidanthera/VoodooPS2) 
 
