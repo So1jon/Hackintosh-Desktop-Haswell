@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 ### Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
-### Bootloader : [OpenCore Lasted RELEASE Version](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/orgs/acidanthera/repositories)
+### Bootloader : [OpenCore Lasted RELEASE Version](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/acidanthera)
 
 ### Geekbench 6.1.0  Result Information: 
 | iMacPro1,1            | Result  | ID Information                                                |
@@ -142,8 +142,7 @@ ________________________________________________________________________________
 
 ## Credits
 
-- [Apple](https://apple.com) for macOS.
-- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Apple](https://www.apple.com/mac/) for macOS.
 
 
 _________________________________________________________________________________________________________________________________________________
