@@ -14,8 +14,10 @@
  </a>
 </p>
 
+<details>
+<summary><strong>Operating systems:</strong></summary>
 
-### Operating systems:
+<br />
 
 | Name           | Version | Build      | Image links                                                                                                                                                                                                                                                       |
 | -------------- | ------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,6 +27,7 @@
 | macOS Big Sur  | 11.7.10 | 20G1427    | [app](https://drive.google.com/file/d/1QQqPaeKqBuZv5LSfzOd_e2NiQHiR92D_/view?usp=sharing) / [rdr](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
 | Windows  11    | 23H2    | 22631.2338 | [ISO EN](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_09_13.iso) / [ISO RU](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_09_13.iso) |
 
+</details>
 
 
 ### 🖥️ Hardware specifications:
