@@ -158,7 +158,7 @@ ________________________________________________________________________________
 
 ## Credits:
 
-- Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
+- [Guide Used](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html) OpenCore Desktop Haswell 
 - [Apple](https://www.apple.com/mac/) for macOS.
 
 
