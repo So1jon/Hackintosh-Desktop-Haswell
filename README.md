@@ -95,6 +95,7 @@ ________________________________________________________________________________
 | SSDTTime                 | Release    | [Github Link](https://github.com/corpnewt/SSDTTime)                                                                |
 | USBMap                   | Release    | [Github Link](https://github.com/corpnewt/USBMap)                                                                  |
 | USBToolBox/tool          | 0.2        | [Gihub Link](https://github.com/USBToolBox/tool)                                                                   |
+| Hackintool               | 3.9.9      | [Gihub Link](https://github.com/benbaker76/Hackintool)                                                             |
 | RadeonSensor             | 1.3.0      | [Gihub Link](https://github.com/ChefKissInc/RadeonSensor/releases)                                                 |
 | MIST                     | 0.9.1      | [Gihub Link](https://github.com/ninxsoft/Mist)                                                                     |
 | About This Hack          | 0.9.1      | [Github link](https://github.com/0xCUB3/About-This-Hack/releases)                                                  |
