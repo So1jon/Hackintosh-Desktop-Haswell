@@ -123,34 +123,38 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-### ✅ What work:
+<details>
+<summary><strong>What work:</strong></summary>
 
-- AMD Radeon RX 580
+<br />
 
-- Intel HD Graphics 4400 
+ ✅ AMD Radeon RX 580
 
-- CPU Power Management 
+ ✅ Intel HD Graphics 4400 
 
-- Restart, Sleep and Shutdown 
+ ✅ CPU Power Management 
 
-- Ethernet 
+ ✅ Restart, Sleep and Shutdown 
 
-- Audio Output from Front and Rear Jack 
+ ✅ Ethernet 
 
-- All USB Ports
+ ✅ Audio Output from Front and Rear Jack 
 
-- USB Wi-Fi 
+ ✅ All USB Ports
 
-- USB Bluetooth 
+ ✅ USB Wi-Fi 
 
-- HDMI Out
+ ✅ USB Bluetooth 
+
+ ✅ HDMI Out
  
-- HDMI Audio 
+ ✅ HDMI Audio 
 
-### ❌ What not work:
+ ❌AirDrop
 
-- AirDrop
-- Handoff 
+ ❌Handoff 
+
+</details>
 
 _________________________________________________________________________________________________________________________________________________
 
