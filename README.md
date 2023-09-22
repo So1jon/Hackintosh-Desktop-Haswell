@@ -29,8 +29,10 @@
 
 </details>
 
+<details>
+<summary><strong>Hardware specifications:</strong></summary>
 
-### 🖥️ Hardware specifications:
+<br />
 
 | Components  | Name                                    |  Brand Links                                                                                                                        |
 | ----------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,6 +47,8 @@
 | USB Wi-Fi   | TL-WN725N V3                            | [TP-Link](https://www.tp-link.com/us/support/download/tl-wn725n/)                                                                   |
 |USB Bluetooth| Cambridge Silicon Radio 4.0             | [CSR](https://en.wikipedia.org/wiki/CSR_plc)                                                                                        |
 | USB Camera  | Z-Star Microelectronics Corporation     | [Vimicro](http://www.vimicro.com/english/product/pc001.htm)                                                                         |
+
+</details>
 
 
 _________________________________________________________________________________________________________________________________________________
