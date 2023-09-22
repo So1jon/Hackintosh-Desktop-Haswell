@@ -78,7 +78,7 @@ ________________________________________________________________________________
 | Adds allowed entitlements to non-Apple signed apps when SIP is enabled           | AMFIExemption.kext            | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
 | Drivers for Cambridge Silicon Radio 4.0 USB Bluetooth adapters                   | CSRBluetoothInjector.kext     | [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
 
-### Special Config:
+### ⚠️ Special Config:
 
 - Usb port mapping performed
 - SSDT-Hack Essential patc
@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-### What works:
+### ✅ What work:
 
 - AMD Radeon RX 580
 
@@ -143,6 +143,11 @@ ________________________________________________________________________________
 - HDMI Out
  
 - HDMI Audio 
+
+### ❌ What not work:
+
+- AirDrop
+- Handoff 
 
 _________________________________________________________________________________________________________________________________________________
 
