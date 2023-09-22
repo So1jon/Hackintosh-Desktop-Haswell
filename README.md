@@ -1,3 +1,8 @@
+
+[![](https://img.shields.io/badge/Reposity-So1jon-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/So1jon)
+[![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Nusratov_Sobirjon)
+[![](https://img.shields.io/badge/Facebook-Nusratov_Sobirjon-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/Sobirjon.Nusratov)
+
 _________________________________________________________________________________________________________________________________________________
 
 ### Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
