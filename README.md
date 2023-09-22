@@ -14,6 +14,8 @@ ________________________________________________________________________________
  </a>
 </p>
 
+
+
 ### My computer hardware specifications:
 
 | Components  | Name                                    |  Brand Links                                                                                                                        |
