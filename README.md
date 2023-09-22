@@ -32,7 +32,6 @@
 |USB Bluetooth| Cambridge Silicon Radio 4.0             | [CSR](https://en.wikipedia.org/wiki/CSR_plc)                                                                                        |
 | USB Camera  | Z-Star Microelectronics Corporation     | [Vimicro](http://www.vimicro.com/english/product/pc001.htm)                                                                         |
 
-_________________________________________________________________________________________________________________________________________________
 
 ### My computer is fully tested on the following operating systems:
 
