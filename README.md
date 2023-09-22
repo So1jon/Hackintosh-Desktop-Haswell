@@ -176,17 +176,20 @@
 
 </details>
 
+<details>
+<summary><strong>Special Config:</strong></summary>
+<br />
+⚠️ Usb port mapping performed
+⚠️ SSDT-Hack Essential patc
+</details>
 
-### ⚠️ Special Config:
-
-- Usb port mapping performed
-- SSDT-Hack Essential patc
-
-## Credits:
-
-- OpenCore Desktop Haswell 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
-- Read the Dortania guide for creating your USB from Windows or macOS
-- USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) 
-- Apple for 👉 [macOS](https://www.apple.com/mac/)
+<details>
+<summary><strong>Credits:</strong></summary>
+<br />
+⚠️ OpenCore Desktop Haswell 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
+⚠️ Read the Dortania guide for creating your USB from Windows or macOS
+⚠️ USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) 
+⚠️ Apple for 👉 [macOS](https://www.apple.com/mac/)
+</details>
 
 _________________________________________________________________________________________________________________________________________________
