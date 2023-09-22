@@ -191,7 +191,7 @@
 
 ⚠️ Read the Dortania guide for creating your USB from Windows or macOS
 
-⚠️ USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
+⚠️ USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide)
  
 ⚠️ Apple for 👉 [macOS](https://www.apple.com/mac/)
 </details>
