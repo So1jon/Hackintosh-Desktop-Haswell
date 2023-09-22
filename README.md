@@ -10,13 +10,6 @@ ________________________________________________________________________________
 
 ### Bootloader : [OpenCore](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/acidanthera)
 
-### Geekbench 6.1.0  Result Information: 
-| iMacPro1,1            | Result  | ID Information                                                |
-| --------------------- | -------- | ------------------------------------------------------------ |
-| CPU Single-Core Score | 887      | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
-| CPU Multi-Core Score  | 1739     | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
-| dGPU Metal Score      | 44618    | [ID 624217](https://browser.geekbench.com/v6/compute/624217) |
-
 _________________________________________________________________________________________________________________________________________________
 
 ### My computer hardware specifications:
@@ -146,6 +139,15 @@ ________________________________________________________________________________
 - HDMI Out
  
 - HDMI Audio 
+
+_________________________________________________________________________________________________________________________________________________
+
+### Geekbench 6.1.0  Result Information: 
+| iMacPro1,1            | Result  | ID Information                                                |
+| --------------------- | -------- | ------------------------------------------------------------ |
+| CPU Single-Core Score | 887      | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
+| CPU Multi-Core Score  | 1739     | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
+| dGPU Metal Score      | 44618    | [ID 624217](https://browser.geekbench.com/v6/compute/624217) |
 
 
 
