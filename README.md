@@ -6,11 +6,13 @@ ________________________________________________________________________________
 [![](https://img.shields.io/badge/Apple-macOS_Sonoma-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://www.apple.com/macos/sonoma-preview)
 
 _________________________________________________________________________________________________________________________________________________
-
-### Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
-
-### Bootloader : [OpenCore](https://github.com/acidanthera/OpenCorePkg) in [Project Acidanthera](https://github.com/acidanthera)
-
+<p></p>
+<p align="center"><img src="https://i.imgur.com/HJnpvwQ.png" width="200" height="48"/> EFI</p>
+<p align="center">
+  <a href="https://github.com/acidanthera/OpenCorePkg">
+  <img src="https://img.shields.io/badge/OpenCore-0.9.4-informational.svg">
+ </a>
+</p>
 _________________________________________________________________________________________________________________________________________________
 
 ### My computer hardware specifications:
@@ -155,6 +157,7 @@ ________________________________________________________________________________
 
 ## Credits:
 
+- Guide Used - [OpenCore Desktop Haswell Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 - [Apple](https://www.apple.com/mac/) for macOS.
 
 
