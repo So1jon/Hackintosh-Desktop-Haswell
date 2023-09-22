@@ -192,9 +192,7 @@
 
 ⚠️ OpenCore Desktop Haswell 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
-⚠️ Read the Dortania guide for creating your USB from Windows or macOS
-
-⚠️ USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide)
+⚠️ Read the Dortania 👉 [guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide) for creating your USB from Windows or macOS
  
 ⚠️ Apple for 👉 [macOS](https://www.apple.com/mac/)
 
