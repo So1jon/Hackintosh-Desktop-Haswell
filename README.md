@@ -69,6 +69,11 @@
 
 </details>
 
+<details>
+<summary><strong>Kexts:</strong></summary>
+
+<br />
+
 
 | Specifications                                                                   | Kexts                         | [Builds/Dortania](https://dortania.github.io/builds/)  Links                                                    |
 | -------------------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -87,14 +92,14 @@
 | Adds allowed entitlements to non-Apple signed apps when SIP is enabled           | AMFIExemption.kext            | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
 | Drivers for Cambridge Silicon Radio 4.0 USB Bluetooth adapters                   | CSRBluetoothInjector.kext     | [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
 
-### ⚠️ Special Config:
 
-- Usb port mapping performed
-- SSDT-Hack Essential patc
+</details>
 
-_________________________________________________________________________________________________________________________________________________
+<details>
+<summary><strong>Download the tools:</strong></summary>
 
-### Download the tools :
+<br />
+
 
 | Name                     | Version    | Links                                                                                                              |
 | ------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -122,12 +127,8 @@ ________________________________________________________________________________
 | TransMac                 | Release    | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
 | HFS+ Paragon Software    | Release    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
 
-### MacOS bootable USB creation:
 
-- Read the Dortania guide for creating your USB from Windows or macOS
-- USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
-
-_________________________________________________________________________________________________________________________________________________
+</details>
 
 <details>
 <summary><strong>What work:</strong></summary>
@@ -162,21 +163,30 @@ ________________________________________________________________________________
 
 </details>
 
-_________________________________________________________________________________________________________________________________________________
+<details>
+<summary><strong>Geekbench:</strong></summary>
 
-### Geekbench 6.1.0  Result Information: 
+<br />
+
 | iMacPro1,1            | Result  | ID Information                                                |
 | --------------------- | -------- | ------------------------------------------------------------ |
 | CPU Single-Core Score | 887      | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
 | CPU Multi-Core Score  | 1739     | [ID 1780635](https://browser.geekbench.com/v6/cpu/1780635)   |
 | dGPU Metal Score      | 44618    | [ID 624217](https://browser.geekbench.com/v6/compute/624217) |
 
+</details>
 
 
+### ⚠️ Special Config:
+
+- Usb port mapping performed
+- SSDT-Hack Essential patc
 
 ## Credits:
 
-- OpenCore Desktop Haswell 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html) 
+- OpenCore Desktop Haswell 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
+- Read the Dortania guide for creating your USB from Windows or macOS
+- USB creation 👉 [Guide Dortania](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) 
 - Apple for 👉 [macOS](https://www.apple.com/mac/)
 
 _________________________________________________________________________________________________________________________________________________
