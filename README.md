@@ -1,11 +1,11 @@
-_________________________________________________________________________________________________________________________________________________
+
 
 [![](https://img.shields.io/badge/iCloud-nusratov.sobirjon@icloud.com-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://www.icloud.com/mail/)
 [![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Nusratov_Sobirjon)
 [![](https://img.shields.io/badge/Facebook-Nusratov_Sobirjon-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/Sobirjon.Nusratov)
 [![](https://img.shields.io/badge/Apple-macOS_Sonoma-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://www.apple.com/macos/sonoma-preview)
 
-_________________________________________________________________________________________________________________________________________________
+
 <p></p>
 <p align="center"><img src="https://i.imgur.com/HJnpvwQ.png" width="200" height="48"/> EFI</p>
 <p align="center">
