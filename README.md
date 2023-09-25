@@ -14,6 +14,8 @@
 
 <br />
 
+✅ My computer has been fully tested on the following operating systems:
+
 | Name           | Version | Build      | Image links                                                                                                                                                                                                                                                           |
 | -------------- | ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `macOS Sonoma` |  `14.0` | `23A5337a` | [`DMG`](https://drive.google.com/file/d/1FgkfiXhaKfVXMpzf8R4CbYFOnG7Ts5Q3/view?usp=sharing) / [`pkg`](https://swcdn.apple.com/content/downloads/14/54/042-41491-A_WCZEM7L2US/b5eeeylcnmf82ycto51pvy0klcyzd02on8/InstallAssistant.pkg)                                 |
