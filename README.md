@@ -92,6 +92,22 @@
 
 </details>
 
+<details>
+<summary><strong>Drivers:</strong></summary>
+<br />
+
+| Driver                  | Status   | Description                                      |
+| ----------------------- | -------- | ------------------------------------------------ | 
+| `AudioDxe.efi`          | Optional | Unrelated to Audio support in macOS              |
+| `OpenCanopy.efi`        | Optional | This is an optional OpenCore GUI                 |
+| `ResetNvramEntry.efi`   | Optional | Required to reset the system's NVRAM             |
+| `OpenPartitionDxe.efi`  | Optional | Required to boot macOS 10.7-10.9 recovery        |
+| `ToggleSipEntry.efi`    | Optional |enabling and disabling System Integrity Protection| 
+| `OpenRuntime.efi`       | Required | Required for proper operation                    |
+| `HfsPlus.efi`           | Required | Needed for seeing HFS volumes                    |
+       
+</details>
+
 
 <details>
 <summary><strong>Kexts:</strong></summary>
@@ -167,17 +183,21 @@
 
  `✅ Ethernet.` 
 
- `✅ Audio` Output from 3.5mm Front and Rear headphone Jack. 
+ `✅ Audio` Output from 3.5mm Front and Rear headphone Jack.
+
+ `✅ PS2` Keyboard & Mouse. 
 
  `✅ USB 2.0/3.0` All Ports.
 
- `✅ USB Wi-Fi, Bluetooth, WebCam.
+ `✅ USB` Wi-Fi, Bluetooth, WebCam and Mouse.
 
  `✅` Restart, Sleep and Shutdown. ` 
 
  `✅ Bootcamp.`
 
  `✅ Apple` Services `iCloud, App Store, iMessage, FaceTime.`
+
+ `❌ VGA` port output.  ⚠️ Not supported for macOS.
 
  `❌ Intel HD Graphics 4400`  ⚠️ For `macOS Ventura` and `macOS Sonoma` disabled iGPU not supported  Intel Quick/Sync Hardware Acceleration. `
  
