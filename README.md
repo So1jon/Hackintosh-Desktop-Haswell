@@ -97,15 +97,15 @@
 <br />
 
 | Driver                  | Status   | Description                                      |
-| ----------------------- | -------- | ------------------------------------------------ | 
-| `AudioDxe.efi`          | Optional | Unrelated to Audio support in macOS              |
-| `OpenCanopy.efi`        | Optional | This is an optional OpenCore GUI                 |
-| `ResetNvramEntry.efi`   | Optional | Required to reset the system's NVRAM             |
-| `OpenPartitionDxe.efi`  | Optional | Required to boot macOS 10.7-10.9 recovery        |
-| `ToggleSipEntry.efi`    | Optional |enabling and disabling System Integrity Protection| 
+| ----------------------- | -------- | ------------------------------------------------ |
 | `OpenRuntime.efi`       | Required | Required for proper operation                    |
 | `HfsPlus.efi`           | Required | Needed for seeing HFS volumes                    |
-       
+| `OpenCanopy.efi`        | Optional | This is an optional OpenCore GUI                 |
+| `ResetNvramEntry.efi`   | Optional | Required to reset the system's NVRAM             | 
+| `OpenPartitionDxe.efi`  | Optional | Required to boot macOS 10.7-10.9 recovery        |
+| `ToggleSipEntry.efi`    | Optional |enabling and disabling System Integrity Protection|
+| `AudioDxe.efi`          | Optional | Unrelated to Audio support in macOS              |
+ 
 </details>
 
 
