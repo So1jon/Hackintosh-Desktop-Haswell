@@ -19,9 +19,9 @@
 | Name           | Version | Build      | Image links                                                                                                                                                                                                                                                           |
 | -------------- | ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `macOS Sonoma` |  `14.0` | `23A5337a` | [`DMG`](https://drive.google.com/file/d/1FgkfiXhaKfVXMpzf8R4CbYFOnG7Ts5Q3/view?usp=sharing) / [`pkg`](https://swcdn.apple.com/content/downloads/14/54/042-41491-A_WCZEM7L2US/b5eeeylcnmf82ycto51pvy0klcyzd02on8/InstallAssistant.pkg)                                 |
-| `macOS Ventura`| `13.5.2`| `22G91`    | [`DMG`](https://drive.google.com/file/d/1b5TlWf0vI17z9cWL0s3aLO7jWxnZoFwa/view?usp=sharing) / [rdr](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                              | 
-|`macOS Monterey`| `12.6.9`| `21G726`   | [`app`](https://drive.google.com/file/d/1tNgnxK6J5BH3KibsgdbE_8QEERit2xJC/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
-| `macOS Big Sur`|`11.7.10`| `20G1427`  | [`app`](https://drive.google.com/file/d/1QQqPaeKqBuZv5LSfzOd_e2NiQHiR92D_/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
+| `macOS Ventura`| `13.6`  | `22G120`   | [`DMG`](https://drive.google.com/file/d/1nF_PgOEfoKraCjUlYOC7Nbs9g4ezpDMg/view?usp=sharing) / [rdr](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                              | 
+|`macOS Monterey`| `12.7`  | `21G816`   | [`DMG`](https://drive.google.com/file/d/1ikVnnE6RU6EpOE3x8sxy4lWs2Becgixo/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
+| `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
 | `Windows  11`  | `23H2`  |`22631.2338`| [`ISO EN`](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_09_13.iso) / [`ISO RU`](https://comss.cloud/22631.2338.230906-1420.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_09_13.iso) |
 
 </details>
@@ -193,7 +193,7 @@
 
  `✅ USB` Wi-Fi, Bluetooth, WebCam and Mouse.
 
- `✅` Restart, Sleep and Shutdown. ` 
+ `✅` Restart, Sleep and Shutdown. 
 
  `✅ Bootcamp.`
 
