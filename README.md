@@ -147,7 +147,13 @@
 | -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
 | `OpenCore Auxiliary Tools` | 20230022   | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
 | `Python`                   | 3.11.5     | [official link](https://www.python.org/downloads/macos/)                                                           |
-| `Proper Tree`              | 0.2.5      | [Github link](https://github.com/corpnewt/ProperTree)                                                              | 
+| `Proper Tree`              | 0.2.5      | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
+| `OpenCore Configurator`    | Release    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
+| `HWMonitorSMC2`            |  2.6.1     | [Github link](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)                                          |
+| `PlistEdit Pro`            | Release    | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                      |
+| `IORegistryExplorer`       |  3.0.2     | [Github link](https://github.com/utopia-team/IORegistryExplorer/releases)                                          |
+| `MaciASL`                  |  1.6.4     | [Github link](https://github.com/acidanthera/MaciASL/releases)                                                     |
+| `Intel Power Gadget`       | Release    |[Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg)|  
 | `OcBinaryData`             | QEMU 8.0.0 | [Github link](https://github.com/acidanthera/OcBinaryData)                                                         |
 | `GenSMBIOS`                | Release    | [Github link](https://github.com/corpnewt/GenSMBIOS)                                                               |
 | `ssdtPRGen.sh`             | Release    | [Github link](https://github.com/Piker-Alpha/ssdtPRGen.sh)                                                         |
