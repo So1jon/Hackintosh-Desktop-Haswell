@@ -278,9 +278,9 @@ sudo pmset tcpkeepalive 0
 
 ### You can contact me through:
 
-[![](https://img.shields.io/badge/iCloud-nusratov.sobirjon@icloud.com-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](mailto:nusratov.sobirjon@icloud.com)
-[![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/Nusratov_Sobirjon)
+[![](https://img.shields.io/badge/iCloud-nusratov.sobirjon@icloud.com-informational?style=flat&logo=apple&logoColor=white&color=cbcdcc)](mailto:nusratov.sobirjon@icloud.com)
+[![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=89e2ff)](https://t.me/Nusratov_Sobirjon)
 [![](https://img.shields.io/badge/Facebook-Nusratov_Sobirjon-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/Sobirjon.Nusratov)
-[![](https://img.shields.io/badge/Github-So1jon-informational?style=flat&logo=github&logoColor=white&color=9debeb)](https://github.com/So1jon)
+[![](https://img.shields.io/badge/Github-So1jon-informational?style=flat&logo=github&logoColor=white&color=c4c4c4)](https://github.com/So1jon)
 
 
