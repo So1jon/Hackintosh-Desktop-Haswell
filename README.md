@@ -145,9 +145,9 @@
 
 | Name                       | Version    | Links                                                                                                              |
 | -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| `OpenCore Auxiliary Tools` | 20230022   | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
-| `Python`                   | 3.11.5     | [official link](https://www.python.org/downloads/macos/)                                                           |
-| `Proper Tree`              | 0.2.5      | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
+| `OpenCore Auxiliary Tools` | Release    | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
+| `Python`                   | Release    | [official link](https://www.python.org/downloads/macos/)                                                           |
+| `Proper Tree`              | Release    | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
 | `OpenCore Configurator`    | Release    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
 | `HWMonitorSMC2`            |  2.6.1     | [Github link](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)                                          |
 | `PlistEdit Pro`            | Release    | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                      |
@@ -161,11 +161,11 @@
 | `USBMap`                   | Release    | [Github Link](https://github.com/corpnewt/USBMap)                                                                  |
 | `USBToolBox/tool`          | 0.2        | [Gihub Link](https://github.com/USBToolBox/tool)                                                                   |
 | `ESP Mounter Pro`          | 1.0        | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                            |
-| `Hackintool`               | 3.9.9      | [Gihub Link](https://github.com/benbaker76/Hackintool)                                                             |
+| `Hackintool`               | 4.0.3      | [Gihub Link](https://github.com/benbaker76/Hackintool)                                                             |
 | `RadeonSensor`             | 1.3.0      | [Gihub Link](https://github.com/ChefKissInc/RadeonSensor/releases)                                                 |
 | `MIST`                     | 0.9.1      | [Gihub Link](https://github.com/ninxsoft/Mist)                                                                     |
 | `About This Hack`          | 0.9.1      | [Github link](https://github.com/0xCUB3/About-This-Hack/releases)                                                  |
-| `OpenCore Legacy Patcher`  | 0.6.8      | [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)                                         |
+| `OpenCore Legacy Patcher`  | 1.0.0      | [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)                                         |
 | `Kernel Debug Kit`         | Release    | [Official link](https://developer.apple.com/download/all/)                                                         |
 | `Windows Install`          | 5.9.1      | [official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
 | `Bypass Registry`          | Release    | [Github link](https://github.com/haithamaouati/BW11)                                                               |
