@@ -207,7 +207,7 @@
 
  `❌ VGA` port output.  ⚠️ Not supported for macOS.
 
- `❌ Intel HD Graphics 4400`  ⚠️ For `macOS Ventura` and `macOS Sonoma` disabled iGPU not supported  Intel Quick/Sync Hardware Acceleration. `
+ `❌ Intel HD Graphics 4400`  ⚠️ For `macOS Ventura` and `macOS Sonoma` disabled iGPU not supported  `Intel Quick/Sync` Hardware Acceleration.
  
  `❌ AirDrop & Handoff`  ⚠️ Only `AirDrop` and `Handoff` are not working since the `USB Wi-Fi` and `USB Bluetooth` are not fully compatible with `macOS`. For all this to work, you need to replace the card with a native one, such as  `PCI Fenvi` cards before `macOS Sonoma`.
 
