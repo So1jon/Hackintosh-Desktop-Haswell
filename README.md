@@ -150,7 +150,7 @@
 | `Python`                   | [official link](https://www.python.org/downloads/macos/)                                                           |
 | `Proper Tree`              | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
 | `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
-| `HWMonitorSMC2`            | [Github link](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)                                          |
+| `HWMonitorSMC2`            | [Github link](https://github.com/CloverHackyColor/HWMonitorSMC2)                                          |
 | `PlistEdit Pro`            | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                      |
 | `IORegistryExplorer`       | [Github link](https://github.com/utopia-team/IORegistryExplorer/releases)                                          |
 | `MaciASL`                  | [Github link](https://github.com/acidanthera/MaciASL/releases)                                                     |
