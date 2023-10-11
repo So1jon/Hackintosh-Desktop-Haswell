@@ -146,7 +146,7 @@
 | Name                       | Links                                                                                                              |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | `Mactracker`               | [Official link](https://mactracker.ca/)                                                                            |
-| `OpenCore Auxiliary Tools` | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
+| `OpenCore Auxiliary Tools` | [Github link](https://github.com/ic005k/OCAuxiliaryTools)                                                          |
 | `Python`                   | [official link](https://www.python.org/downloads/macos/)                                                           |
 | `Proper Tree`              | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
 | `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
