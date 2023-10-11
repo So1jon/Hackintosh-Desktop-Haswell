@@ -145,7 +145,7 @@
 </details>
 
 <details>
-<summary><strong>Download the github tools:</strong></summary>
+<summary><strong>Download the tools:</strong></summary>
 <br />
 
 [![](https://img.shields.io/badge/acidanthera-OpenCorePkg-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/OpenCorePkg)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/OpenCorePkg/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/OpenCorePkg/releases)
@@ -182,14 +182,7 @@
 
 [![](https://img.shields.io/badge/ninxsoft-Mist-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ninxsoft/Mist)[![GitHub all releases](https://img.shields.io/github/downloads/ninxsoft/Mist/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ninxsoft/Mist/releases)
 
-</details>
-
-
-<details>
-<summary><strong>Download the other tools:</strong></summary>
-
-<br />
-
+### Download the other tools:
 
 | Name                       | Links                                                                                                              |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -203,7 +196,6 @@
 | `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
 | `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
 | `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
-
 
 
 </details>
@@ -307,19 +299,11 @@ sudo pmset tcpkeepalive 0
 
 
 
-<details>
-<summary><strong>You can contact me through:</strong></summary>
-<br />
+### You can contact me through:
+
+[![](https://img.shields.io/badge/iCloud-nusratov.sobirjon@icloud.com-informational?style=flat&logo=apple&logoColor=white&color=cbcdcc)](mailto:nusratov.sobirjon@icloud.com)[![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=89e2ff)](https://t.me/Nusratov_Sobirjon)[![](https://img.shields.io/badge/Facebook-Nusratov_Sobirjon-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/Sobirjon.Nusratov)
 
 
-[![](https://img.shields.io/badge/iCloud-nusratov.sobirjon@icloud.com-informational?style=flat&logo=apple&logoColor=white&color=cbcdcc)](mailto:nusratov.sobirjon@icloud.com)
 
-[![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=89e2ff)](https://t.me/Nusratov_Sobirjon)
-
-[![](https://img.shields.io/badge/Facebook-Nusratov_Sobirjon-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/Sobirjon.Nusratov)
-
-[![](https://img.shields.io/badge/Github-So1jon-informational?style=flat&logo=github&logoColor=white&color=c4c4c4)](https://github.com/So1jon)
-
-</details>
 
 
