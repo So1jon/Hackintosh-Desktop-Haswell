@@ -7,7 +7,12 @@
  </a>
 </p>
 
-[![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Hackintosh-Desktop-Haswell/total?style=for-the-badge&logo=github&color=1A91FF)](https://github.com/So1jon/Hackintosh-Desktop-Haswell/releases)
+<a href="https://github.com/So1jon">
+    <img src="https://img.shields.io/github/followers/So1jon?label=So1jon&logo=GitHub&style=social" />
+</a> 
+
+[![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Hackintosh-Desktop-Haswell/total?style=flat&logo=github&logoColor=white&color=1A91FF)](https://github.com/So1jon/Hackintosh-Desktop-Haswell/releases)
+
 
 <details>
 <summary><strong>Operating systems:</strong></summary>
@@ -196,8 +201,6 @@
 | `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                            |
 | `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                         |
 | `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
-| `Brigadier Command`        | [Google drive link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)                        |
-| `Win10 EFI Folder`         | [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)                        |
 | `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
 | `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
 
@@ -304,11 +307,19 @@ sudo pmset tcpkeepalive 0
 
 
 
-### You can contact me through:
+<details>
+<summary><strong>You can contact me through:</strong></summary>
+<br />
+
 
 [![](https://img.shields.io/badge/iCloud-nusratov.sobirjon@icloud.com-informational?style=flat&logo=apple&logoColor=white&color=cbcdcc)](mailto:nusratov.sobirjon@icloud.com)
+
 [![](https://img.shields.io/badge/Telegram-@Nusratov_Sobirjon-informational?style=flat&logo=telegram&logoColor=white&color=89e2ff)](https://t.me/Nusratov_Sobirjon)
+
 [![](https://img.shields.io/badge/Facebook-Nusratov_Sobirjon-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/Sobirjon.Nusratov)
+
 [![](https://img.shields.io/badge/Github-So1jon-informational?style=flat&logo=github&logoColor=white&color=c4c4c4)](https://github.com/So1jon)
+
+</details>
 
 
