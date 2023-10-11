@@ -143,38 +143,38 @@
 <br />
 
 
-| Name                       | Version    | Links                                                                                                              |
-| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
-| `Mactracker`               | Release    | [Official link](https://mactracker.ca/)                                                                            |
-| `OpenCore Auxiliary Tools` | Release    | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
-| `Python`                   | Release    | [official link](https://www.python.org/downloads/macos/)                                                           |
-| `Proper Tree`              | Release    | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
-| `OpenCore Configurator`    | Release    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
-| `HWMonitorSMC2`            |  2.6.1     | [Github link](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)                                          |
-| `PlistEdit Pro`            | Release    | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                      |
-| `IORegistryExplorer`       |  3.0.2     | [Github link](https://github.com/utopia-team/IORegistryExplorer/releases)                                          |
-| `MaciASL`                  |  1.6.4     | [Github link](https://github.com/acidanthera/MaciASL/releases)                                                     |
-| `Intel Power Gadget`       | Release    |[Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg)|  
-| `OcBinaryData`             | 8.0.0      | [Github link](https://github.com/acidanthera/OcBinaryData)                                                         |
-| `GenSMBIOS`                | Release    | [Github link](https://github.com/corpnewt/GenSMBIOS)                                                               |
-| `ssdtPRGen.sh`             | Release    | [Github link](https://github.com/Piker-Alpha/ssdtPRGen.sh)                                                         |
-| `SSDTTime`                 | Release    | [Github Link](https://github.com/corpnewt/SSDTTime)                                                                |
-| `USBMap`                   | Release    | [Github Link](https://github.com/corpnewt/USBMap)                                                                  |
-| `USBToolBox/tool`          | 0.2        | [Gihub Link](https://github.com/USBToolBox/tool)                                                                   |
-| `ESP Mounter Pro`          | 1.0        | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                            |
-| `Hackintool`               | 4.0.3      | [Gihub Link](https://github.com/benbaker76/Hackintool)                                                             |
-| `RadeonSensor`             | 1.3.0      | [Gihub Link](https://github.com/ChefKissInc/RadeonSensor/releases)                                                 |
-| `MIST`                     | 0.9.1      | [Gihub Link](https://github.com/ninxsoft/Mist)                                                                     |
-| `About This Hack`          | 1.0.0      | [Github link](https://github.com/0xCUB3/About-This-Hack/releases)                                                  |
-| `OpenCore Legacy Patcher`  | 1.0.0      | [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)                                         |
-| `Kernel Debug Kit`         | Release    | [Official link](https://developer.apple.com/download/all/)                                                         |
-| `Windows Install`          | 5.9.1      | [official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
-| `Bypass Registry`          | Release    | [Github link](https://github.com/haithamaouati/BW11)                                                               |
-| `Brigadier`                | Release    | [Github link](https://codeload.github.com/timsutton/brigadier/zip/main)                                            |
-| `Brigadier Command`        | Release    | [Google drive link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)                        |
-| `Win10 EFI Folder`         | Release    | [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)                        |
-| `TransMac`                 | Release    | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
-| `HFS+ Paragon Software`    | Release    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
+| Name                       | Links                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| `Mactracker`               | [Official link](https://mactracker.ca/)                                                                            |
+| `OpenCore Auxiliary Tools` | [Github link](https://github.com/ic005k/OCAuxiliaryTools/releases)                                                 |
+| `Python`                   | [official link](https://www.python.org/downloads/macos/)                                                           |
+| `Proper Tree`              | [Github link](https://github.com/corpnewt/ProperTree)                                                              |
+| `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
+| `HWMonitorSMC2`            | [Github link](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)                                          |
+| `PlistEdit Pro`            | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                      |
+| `IORegistryExplorer`       | [Github link](https://github.com/utopia-team/IORegistryExplorer/releases)                                          |
+| `MaciASL`                  | [Github link](https://github.com/acidanthera/MaciASL/releases)                                                     |
+| `Intel Power Gadget`       |[Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg)|  
+| `OcBinaryData`             | [Github link](https://github.com/acidanthera/OcBinaryData)                                                         |
+| `GenSMBIOS`                | [Github link](https://github.com/corpnewt/GenSMBIOS)                                                               |
+| `ssdtPRGen.sh`             | [Github link](https://github.com/Piker-Alpha/ssdtPRGen.sh)                                                         |
+| `SSDTTime`                 | [Github Link](https://github.com/corpnewt/SSDTTime)                                                                |
+| `USBMap`                   | [Github Link](https://github.com/corpnewt/USBMap)                                                                  |
+| `USBToolBox/tool`          | [Gihub Link](https://github.com/USBToolBox/tool)                                                                   |
+| `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                            |
+| `Hackintool`               | [Gihub Link](https://github.com/benbaker76/Hackintool)                                                             |
+| `RadeonSensor`             | [Gihub Link](https://github.com/ChefKissInc/RadeonSensor/releases)                                                 |
+| `MIST`                     | [Gihub Link](https://github.com/ninxsoft/Mist)                                                                     |
+| `About This Hack`          | [Github link](https://github.com/0xCUB3/About-This-Hack/releases)                                                  |
+| `OpenCore Legacy Patcher`  | [Gihub Link](https://github.com/dortania/OpenCore-Legacy-Patcher)                                                  |
+| `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                         |
+| `Windows Install`          | [official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
+| `Bypass Registry`          | [Github link](https://github.com/haithamaouati/BW11)                                                               |
+| `Brigadier`                | [Github link](https://codeload.github.com/timsutton/brigadier/zip/main)                                            |
+| `Brigadier Command`        | [Google drive link](https://drive.google.com/file/d/1eY-CONimt4J74qrx1kUciwVyLSNMd0jX/view)                        |
+| `Win10 EFI Folder`         | [Google drive link](https://drive.google.com/file/d/1AVWyE8RkHE_e6SomJYted2wFpeiBs9Hi/view)                        |
+| `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
+| `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
 
 
 </details>
