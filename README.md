@@ -328,6 +328,8 @@ sudo pmset tcpkeepalive 0
 
 ⚠️ `Apple` for 👉 [`macOS`](https://www.apple.com/mac/)
 
+⚠️  Forum 👉 [`applelife.ru`](https://applelife.ru/)
+
 ⚠️ `OpenCore Desktop Haswell` 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
 ⚠️ Creating your `USB` from `Windows` or `macOS` 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide) 
