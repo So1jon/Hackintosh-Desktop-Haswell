@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/HJnpvwQ.png" width="200" height="48"/> EFI</p>
 <p align="center">
   <a href="https://github.com/acidanthera/OpenCorePkg">
-  <img src="https://img.shields.io/badge/OpenCore-0.9.4-informational.svg">
+  <img src="https://img.shields.io/badge/OpenCore-0.9.6-informational.svg">
  </a>
 </p>
 
