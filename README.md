@@ -27,7 +27,7 @@
 | `macOS Ventura`| `13.6.1`| `22G313`   | [`DMG`](https://drive.google.com/file/d/12Ci6uTv2euvOt84EI-VJAgANQLnG6Bfj/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
 |`macOS Monterey`| `12.7.1`| `21G920`   | [`DMG`](https://drive.google.com/file/d/1q2lCzDhgYcg1Kn_gtpiqePMJf9d4cPPi/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
 | `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
-| `Windows  11`  | `23H2`  |`22635.2776`| [`ISO EN`](https://comss.cloud/22635.2776.231114-1945.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_11_28.iso) / [`ISO RU`](https://comss.cloud/22635.2776.231114-1945.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_11_28.iso) |
+| `Windows  11`  | `23H2`  |`22635.2850`| [`ISO EN`](https://comss.cloud/22635.2850.231129-1355.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_12_08.iso) / [`ISO RU`](https://comss.cloud/22635.2850.231129-1355.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_12_08.iso) |
 
 </details>
 
@@ -36,19 +36,19 @@
 
 <br />
 
-| Components      | Name                                    |  Brand Links                                                                                                                          |
-| --------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Motherboard** | `Z87-DS3H v1.1`                         | [`Gigabayte`](https://www.gigabyte.com/Motherboard/GA-Z87-DS3H-rev-11#ov)                                                             |
-| **CPU**         | `Intel® Core® i3 4130`                  | [`Intel Haswell`](https://ark.intel.com/content/www/us/en/ark/products/77480/intel-core-i34130-processor-3m-cache-3-40-ghz.html)      |
-| **iGPU**        | `Intel® HD Graphics 4400`               | [`Intel Haswell`](https://ark.intel.com/content/www/us/en/ark/products/graphics/81497/intel-hd-graphics-4400.html#@Desktop)           |
-| **dGPU**        | `AMD Radeon RX 580 8GB`                 | [`Sapphire NITRO+`](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5)                                                   |
-| **Ram**         | `DDR3 16GB / 1600Mhz`                   | [`Kingston`](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf)                                                                    |
-| **Storage**     | `SSD 480GB SATA III 6Gb/s`              | [`PNY CS900`](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/)                                                         |
-| **Ethernet**    | `RTL8111E-VL 1.0 Gigabit/s`             | [`Realtek`](https://4ip.info/files/attachments/RTL8111E.pdf)                                                                          |
-| **Audio**       | `Codec ALC887`                          | [`Realtek`](http://www.chipset-ic.com/datasheet/ALC887.pdf)                                                                           |
-| **USB Wi-Fi**   | `TL-WN725N V3`                          | [`TP-Link`](https://www.tp-link.com/us/support/download/tl-wn725n/)                                                                   |
-|**USB Bluetooth**| `Cambridge Silicon Radio 4.0`           | [`CSR`](https://en.wikipedia.org/wiki/CSR_plc)                                                                                        |
-| **USB Camera**  | `Z-Star Microelectronics Corporation`   | [`Vimicro`](http://www.vimicro.com/english/product/pc001.htm)                                                                         |
+| Components      | Name                                    |  Brand Links                                                                                                                                               |
+| --------------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Motherboard** | `Z87-DS3H v1.1`                         | [`Gigabayte`](https://www.gigabyte.com/Motherboard/GA-Z87-DS3H-rev-11#ov)                                                                                  |
+| **CPU**         | `Intel® Core® i7 4790`                  | [`Intel Haswell`](https://www.intel.com/content/www/us/en/products/sku/80806/intel-core-i74790-processor-8m-cache-up-to-4-00-ghz/specifications.html)      |
+| **iGPU**        | `Intel® HD Graphics 4600`               | [`Intel Haswell`](https://ark.intel.com/content/www/us/en/ark/search.html?_charset_=UTF-8&q=HD+Graphics+4600)                                              |
+| **dGPU**        | `AMD Radeon RX 580 8GB`                 | [`Sapphire NITRO+`](https://www.sapphiretech.com/ru-ru/consumer/nitro-rx-580-8g-g5)                                                                        |
+| **Ram**         | `DDR3 16GB / 1600Mhz`                   | [`Kingston`](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf)                                                                                         |
+| **Storage**     | `SSD 480GB SATA III 6Gb/s`              | [`PNY CS900`](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/)                                                                              |
+| **Ethernet**    | `RTL8111E-VL 1.0 Gigabit/s`             | [`Realtek`](https://4ip.info/files/attachments/RTL8111E.pdf)                                                                                               |
+| **Audio**       | `Codec ALC887`                          | [`Realtek`](http://www.chipset-ic.com/datasheet/ALC887.pdf)                                                                                                |
+| **USB Wi-Fi**   | `TL-WN725N V3`                          | [`TP-Link`](https://www.tp-link.com/us/support/download/tl-wn725n/)                                                                                        |
+|**USB Bluetooth**| `Cambridge Silicon Radio 4.0`           | [`CSR`](https://en.wikipedia.org/wiki/CSR_plc)                                                                                                             |
+| **USB Camera**  | `Z-Star Microelectronics Corporation`   | [`Vimicro`](http://www.vimicro.com/english/product/pc001.htm)                                                                                              |
 
 </details>
 
@@ -230,7 +230,7 @@
 
  `❌ VGA` port output.  ⚠️ Not supported for macOS.
 
- `❌ Intel HD Graphics 4400`  ⚠️ For `macOS Ventura` and `macOS Sonoma` disabled iGPU not supported  `Intel Quick/Sync` Hardware Acceleration.
+ `❌ Intel HD Graphics 4600`  ⚠️ For `macOS Ventura` and `macOS Sonoma` disabled iGPU not supported  `Intel Quick/Sync` Hardware Acceleration.
  
  `❌ AirDrop & Handoff`  ⚠️ Only `AirDrop` and `Handoff` are not working since the `USB Wi-Fi` and `USB Bluetooth` are not fully compatible with `macOS`. For all this to work, you need to replace the card with a native one, such as  `PCI Fenvi` cards before `macOS Sonoma`.
 
