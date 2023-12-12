@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/HJnpvwQ.png" width="200" height="48"/> EFI</p>
 <p align="center">
   <a href="https://github.com/acidanthera/OpenCorePkg">
-  <img src="https://img.shields.io/badge/OpenCore-0.9.6-informational.svg">
+  <img src="https://img.shields.io/badge/OpenCore-0.9.7-informational.svg">
  </a>
 </p>
 
@@ -220,7 +220,7 @@
 
  `✅ USB 2.0/3.0` All Ports.
 
- `✅ USB` Wi-Fi, Bluetooth, WebCam and Mouse.
+ `✅ USB` Wi-Fi, Bluetooth, WebCam, Keyboard and Mouse.
 
  `✅` Restart, Sleep and Shutdown. 
 
