@@ -27,7 +27,7 @@
 | `macOS Ventura`| `13.6.3`| `22G436`   | [`DMG`](https://drive.google.com/file/d/1sBgQIvAcsWZ-QVFqjCpQhKmA6MdrqztG/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
 |`macOS Monterey`| `12.7.1`| `21G920`   | [`DMG`](https://drive.google.com/file/d/1q2lCzDhgYcg1Kn_gtpiqePMJf9d4cPPi/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
 | `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
-| `Windows  11`  | `23H2`  |`22635.2850`| [`ISO EN`](https://comss.cloud/22635.2850.231129-1355.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2023_12_08.iso) / [`ISO RU`](https://comss.cloud/22635.2850.231129-1355.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2023_12_08.iso) |
+| `Windows  11`  | `23H2`  |`22635.2921`| [`ISO EN`](https://comss.cloud/22635.2921.231216-0152.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2024_01_04.iso) / [`ISO RU`](https://comss.cloud/22635.2921.231216-0152.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2024_01_04.iso) |
 
 </details>
 
