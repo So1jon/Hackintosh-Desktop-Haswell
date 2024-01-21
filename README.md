@@ -83,10 +83,10 @@
 
 |  SMBIOS    |  Hardware                                     |  macOS Big Sur              |  macOS Monterey            |  macOS Ventura   |  macOS Sonoma  |
 | ---------- | --------------------------------------------- | --------------------------- | -------------------------- | ---------------- | -------------- |
-| Macmini7,1 | Haswell with only iGPU (not recommended)      | supported (not recommended) | supported (not recommended)| not supported    | not supported  |
-| iMac14,4   | Haswell with only iGPU                        |  full supported             | supported (not recommended)| not supported    | not supported  |
-| iMac15,1   | Haswell with dGPU (Enabled iGPU Acceleration) |  full supported             | not supported              | not supported    | not supported  |
-| iMac16,2   | Haswell with only iGPU (not recommended)      | supported (not recommended) | supported (not recommended)| not supported    | not supported  |
+| Macmini7,1 | Haswell with only iGPU                        |  full supported             |  full supported            | not supported    | not supported  |
+| iMac14,4   | Haswell with only iGPU                        |  full supported             |  not supported             | not supported    | not supported  |
+| iMac15,1   | Haswell with dGPU (Enabled iGPU Acceleration) |  full supported             |  not supported             | not supported    | not supported  |
+| iMac16,2   | Haswell with only iGPU                        | supported (not recommended) |supported (not recommended) | not supported    | not supported  |
 | iMac17,1   | Haswell with dGPU (Enabled iGPU Acceleration) | supported (not recommended) |  full supported            | not supported    | not supported  |
 | iMacPro1,1 | Haswell only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported |
 | MacPro7,1  | Haswell only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported |
@@ -103,15 +103,15 @@
 <summary><strong>Drivers:</strong></summary>
 <br />
 
-| Driver                  | Status   | Description                                      |
-| ----------------------- | -------- | ------------------------------------------------ |
-| `OpenRuntime.efi`       | Required | Required for proper operation                    |
-| `HfsPlus.efi`           | Required | Needed for seeing HFS volumes                    |
-| `OpenCanopy.efi`        | Optional | This is an optional OpenCore GUI                 |
-| `ResetNvramEntry.efi`   | Optional | Required to reset the system's NVRAM             | 
-| `OpenPartitionDxe.efi`  | Optional | Required to boot macOS 10.7-10.9 recovery        |
-| `ToggleSipEntry.efi`    | Optional |Enabling and Disabling System Integrity Protection|
-| `AudioDxe.efi`          | Optional | Unrelated to Audio support in macOS              |
+| Driver                  | Status   | Description                                        |
+| ----------------------- | -------- | -------------------------------------------------- |
+| `OpenRuntime.efi`       | Required | Required for proper operation                      |
+| `HfsPlus.efi`           | Required | Needed for seeing HFS volumes                      |
+| `OpenCanopy.efi`        | Optional | This is an optional OpenCore GUI                   |
+| `ResetNvramEntry.efi`   | Optional | Required to reset the system's NVRAM               | 
+| `OpenPartitionDxe.efi`  | Optional | Required to boot macOS 10.7-10.9 recovery          |
+| `ToggleSipEntry.efi`    | Optional | Enabling and Disabling System Integrity Protection |
+| `AudioDxe.efi`          | Optional | Unrelated to Audio support in macOS                |
  
 </details>
 
@@ -184,18 +184,18 @@
 
 ### Download the other tools:
 
-| Name                       | Links                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| `Mactracker`               | [Official link](https://mactracker.ca/)                                                                            |
-| `Python`                   | [Official link](https://www.python.org/downloads/macos/)                                                           |
-| `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                          |
-| `PlistEdit Pro`            | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                      |
-| `Intel Power Gadget`       |[Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg)|  
-| `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                            |
-| `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                         |
-| `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)    |
-| `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                            |
-| `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                |
+| Name                       | Links                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `Mactracker`               | [Official link](https://mactracker.ca/)                                                                              |
+| `Python`                   | [Official link](https://www.python.org/downloads/macos/)                                                             |
+| `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                            |
+| `PlistEdit Pro`            | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                        |
+| `Intel Power Gadget`       | [Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg) |  
+| `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                              |
+| `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                           |
+| `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)      |
+| `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                              |
+| `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                  | 
 
 
 </details>
