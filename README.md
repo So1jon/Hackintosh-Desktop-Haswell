@@ -97,6 +97,9 @@
 
 ![SMBIOS on config.plist screenchot](https://dortania.github.io/OpenCore-Install-Guide/assets/img/smbios.65baf9a9.png "SMBIOS on config.plist screenchot")
 
+⚠️ Setting a NVRAM variable
+
+
 | Boot Arguments             |    Сomments                                                                                                                       |
 |--------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | `-v`                       | This enables verbose mode, which shows all the behind-the-scenes text that scrolls by as you're booting instead of the Apple logo and progress bar. |
