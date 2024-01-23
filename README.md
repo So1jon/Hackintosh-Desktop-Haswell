@@ -97,6 +97,23 @@
 
 ![SMBIOS on config.plist screenchot](https://dortania.github.io/OpenCore-Install-Guide/assets/img/smbios.65baf9a9.png "SMBIOS on config.plist screenchot")
 
+| Boot Arguments             |    Сomments                                                                                                                       |
+|--------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| `-v`                       | This enables verbose mode, which shows all the behind-the-scenes text that scrolls by as you're booting instead of the Apple logo and progress bar. |
+| `revpatch=sbvmm`           | Enable macOS Ventura and macOS Sonoma system updates                                                                              |
+| `-no_compat_check`         | Сancel scan system board id                                                                                                       |
+| `-wegnoegpu`               | Disable all external GPUs                                                                                                         |
+| `-wegnoigpu`               | Disable internal GPU                                                                                                              |
+| `nv_disable=1`             | Forces GPU into VESA mode(no GPU acceleration), useful for troubleshooting and when having issues installing Nvidia's WebDrivers. |
+| `-igfxvesa`                | Forces GPU into VESA mode(no GPU acceleration), useful for troubleshooting                                                        |
+| `igfxonln=1`               | Forces all displays online, useful for resolving screen wake issues in 10.15.4+ on Coffee and Comet Lake                          |
+| `igfxfw=2`                 | Enables loading Apple's GUC firmware for iGPUs, requires a 9th Gen chipset or newer(ie Z390)                                      |
+| `-igfxdvmt`                | Fix the kernel panic caused by an incorrectly calculated amount of DVMT pre-allocated memory on Intel ICL platforms               |
+| `enable-dvmt-calc-fix`     | Property on IGPU                                                                                                                  |
+| `-igfxblt`                 | An alternative to the Backlight Registers Fix and make Backlight Smoother work on KBL/CFL platforms running macOS 13.4 or later.  |
+| `enable-backlight-registers-alternative-fix`| Property on IGPU                                                                                                 |
+
+
 </details>
 
 <details>
