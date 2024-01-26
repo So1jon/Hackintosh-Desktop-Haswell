@@ -360,7 +360,7 @@ sudo pmset tcpkeepalive 0
 <summary><strong>Disclaimer:</strong></summary>
 <br />
 
-⚠️ Hackintoshing may be dangerous and can damage your device and I am not responsible for bricked devices, dead devices, thermonuclear war, or you getting fired because your system failed. Please do some research if you have any concerns about hackintoshing before you proceed. You are choosing to make these changes to your system, and if you point the finger at me for messing up your device, I will laugh at you.
+⚠️ Highly Recommend you to build the EFI for your device on your own and only use this for reference even though you have the same device as mine since, when something fails you will be on your own.
 
 ⚠️ If you want to report or rasie an issue, you must mention your device details in it. And give a detailed information about your issue(images or videos are encouraged)
 
