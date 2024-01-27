@@ -261,11 +261,11 @@
 <summary><strong>Geekbench:</strong></summary>
 |<br />
 
-| Information           | Result   | ID Information                                                | Operating system  | Model ID    |
-| --------------------- | -------- | ------------------------------------------------------------- | ----------------- | ----------- |
-| CPU Single-Core Score | 1011     | [ID 4337338](https://browser.geekbench.com/v6/cpu/4337338)    | `macOS Sonoma`    | iMacPro1,1  |
-| CPU Multi-Core Score  | 3320     | [ID 4337338](https://browser.geekbench.com/v6/cpu/4337338)    | `macOS Sonoma`    | iMacPro1,1  |
-| dGPU Metal Score      | 45017    | [ID 982208](https://browser.geekbench.com/v6/compute/982208)  | `macOS Sonoma`    | iMacPro1,1  |
+| Information           | Result   | ID Information                                                 | Operating system  | Model ID    |
+| --------------------- | -------- | -------------------------------------------------------------- | ----------------- | ----------- |
+| CPU Single-Core Score | 1279     | [ID 4337338](https://browser.geekbench.com/v6/cpu/4613419)     | `macOS Sonoma`    | `MacPro7,1` |
+| CPU Multi-Core Score  | 4108     | [ID 4337338](https://browser.geekbench.com/v6/cpu/4613419)     | `macOS Sonoma`    | `MacPro7,1` |
+| dGPU Metal Score      | 46180    | [ID 1667557](https://browser.geekbench.com/v6/compute/1667557) | `macOS Sonoma`    | `MacPro7,1` |
 
 
 </details>
