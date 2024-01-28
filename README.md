@@ -354,7 +354,7 @@ sudo pmset tcpkeepalive 0
 
 ⚠️ Creating your `USB` from `Windows` or `macOS` 👉 [Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide) 
 
-⚠️ INFORMATION AND TECHNICAL RESOURCES on YouTube 👉 [@AlexeyBoronenkov](https://www.youtube.com/@AlexeyBoronenkov)
+⚠️ Information and Technical Resources on YouTube 👉 [@AlexeyBoronenkov](https://www.youtube.com/@AlexeyBoronenkov)
 
 
 </details>
