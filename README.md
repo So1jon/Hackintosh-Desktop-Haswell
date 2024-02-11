@@ -13,24 +13,6 @@
 
 [![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Hackintosh-Desktop-Haswell/total?style=flat&logo=github&logoColor=white&color=1A91FF)](https://github.com/So1jon/Hackintosh-Desktop-Haswell/releases)
 
-
-<details>
-<summary><strong>Operating systems:</strong></summary>
-
-<br />
-
-✅ My computer has been fully tested on the following operating systems:
-
-| Name           | Version | Build      | Image links                                                                                                                                                                                                                                                           |
-| -------------- | ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `macOS Sonoma` |`14.3`   | `23D56`    | [`DMG`](https://vziq-my.sharepoint.com/:u:/g/personal/7_vziq_onmicrosoft_com/EfAuU3M0GplKpLukuwhMv5cBynbgCeSV4oESqJIqXgF44Q?e=kRK8YN) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6372743)                                                                                                            |
-| `macOS Ventura`| `13.6.4`| `22G513`   | [`DMG`](https://vziq-my.sharepoint.com/:u:/g/personal/7_vziq_onmicrosoft_com/EauUhkJZ5xdLqcsd2WnBam8BCa6VPexcEy69CmpR48ZPAg?e=Ac538P) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
-|`macOS Monterey`| `12.7.3`| `21H1015`  | [`DMG`](https://drive.google.com/file/d/1-MLWxdgWjak7EcZLMBcYdA6qRDAHKgx1/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
-| `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
-| `Windows  11`  | `23H2`  |`22631.3007`| [`ISO EN`](https://comss.cloud/22631.3007.240102-1451.23H2_NI_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2024_01_09.iso) / [`ISO RU`](https://comss.cloud/22631.3007.240102-1451.23H2_NI_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2024_01_09.iso) |
-
-</details>
-
 <details>
 <summary><strong>Hardware specifications:</strong></summary>
 
@@ -71,6 +53,24 @@
 | CFG Lock (MSR 0xE2 write protection)                                   | SATA Mode: AHCI                                                                     |
 
 </details>
+
+<details>
+<summary><strong>Operating systems:</strong></summary>
+
+<br />
+
+✅ My computer has been fully tested on the following operating systems:
+
+| Name           | Version | Build      | Image links                                                                                                                                                                                                                                                           |
+| -------------- | ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `macOS Sonoma` |`14.3`   | `23D56`    | [`DMG`](https://vziq-my.sharepoint.com/:u:/g/personal/7_vziq_onmicrosoft_com/EfAuU3M0GplKpLukuwhMv5cBynbgCeSV4oESqJIqXgF44Q?e=kRK8YN) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6372743)                                                                                                            |
+| `macOS Ventura`| `13.6.4`| `22G513`   | [`DMG`](https://vziq-my.sharepoint.com/:u:/g/personal/7_vziq_onmicrosoft_com/EauUhkJZ5xdLqcsd2WnBam8BCa6VPexcEy69CmpR48ZPAg?e=Ac538P) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
+|`macOS Monterey`| `12.7.3`| `21H1015`  | [`DMG`](https://drive.google.com/file/d/1-MLWxdgWjak7EcZLMBcYdA6qRDAHKgx1/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
+| `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
+| `Windows  11`  | `23H2`  |`22631.3007`| [`ISO EN`](https://comss.cloud/22631.3007.240102-1451.23H2_NI_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2024_01_09.iso) / [`ISO RU`](https://comss.cloud/22631.3007.240102-1451.23H2_NI_RELEASE_SVC_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2024_01_09.iso) |
+
+</details>
+
 
 <details>
 <summary><strong>Special Config:</strong></summary>
