@@ -138,7 +138,7 @@
 
 
 <details>
-<summary><strong>Kexts:</strong></summary>
+<summary><strong>Download the Kexts:</strong></summary>
 
 <br />
 
