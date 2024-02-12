@@ -163,8 +163,6 @@
 
 </details>
 
-</details>
-
 <details>
 <summary><strong>Download the tools:</strong></summary>
 <br />
