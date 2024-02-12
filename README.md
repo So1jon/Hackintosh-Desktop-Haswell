@@ -80,6 +80,62 @@
 
 </details>
 
+<details>
+<summary><strong>Download the tools:</strong></summary>
+<br />
+
+[![](https://img.shields.io/badge/acidanthera-OpenCorePkg-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/OpenCorePkg)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/OpenCorePkg/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/OpenCorePkg/releases)
+
+[![](https://img.shields.io/badge/acidanthera-OcBinaryData-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/OcBinaryData)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/OcBinaryData/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/OcBinaryData/archive/refs/heads/master.zip)
+
+[![](https://img.shields.io/badge/acidanthera-MaciASL-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/MaciASL)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/MaciASL/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/MaciASL/releases)
+
+[![](https://img.shields.io/badge/dortania-OpenCore_Legacy_Patcher-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/dortania/OpenCore-Legacy-Patcher)[![GitHub all releases](https://img.shields.io/github/downloads/dortania/OpenCore-Legacy-Patcher/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
+
+[![](https://img.shields.io/badge/ic005k-OCAuxiliaryTools-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ic005k/OCAuxiliaryTools)[![GitHub all releases](https://img.shields.io/github/downloads/ic005k/OCAuxiliaryTools/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ic005k/OCAuxiliaryTools/releases)
+
+[![](https://img.shields.io/badge/corpnewt-ProperTree-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/ProperTree)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/ProperTree/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip)
+
+[![](https://img.shields.io/badge/corpnewt-GenSMBIOS-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/GenSMBIOS)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/GenSMBIOS/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip)
+
+[![](https://img.shields.io/badge/corpnewt-USBMap-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/USBMap)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/USBMap/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/USBMap/archive/refs/heads/master.zip)
+
+[![](https://img.shields.io/badge/corpnewt-SSDTTime-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/SSDTTime)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/SSDTTime/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/SSDTTime/archive/refs/heads/master.zip)
+
+[![](https://img.shields.io/badge/Piker_Alpha-ssdtPRGen.sh-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/Piker-Alpha/ssdtPRGen.sh)[![GitHub all releases](https://img.shields.io/github/downloads/Piker-Alpha/ssdtPRGen.sh/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/Piker-Alpha/ssdtPRGen.sh/archive/refs/heads/Beta.zip)
+
+[![](https://img.shields.io/badge/USBToolBox-tool-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/USBToolBox/tool)[![GitHub all releases](https://img.shields.io/github/downloads/USBToolBox/tool/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/USBToolBox/tool/releases)
+
+[![](https://img.shields.io/badge/utopia_team-IORegistryExplorer-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/utopia-team/IORegistryExplorer)[![GitHub all releases](https://img.shields.io/github/downloads/utopia-team/IORegistryExplorer/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/utopia-team/IORegistryExplorer/releases)
+
+[![](https://img.shields.io/badge/CloverHackyColor-HWMonitorSMC2-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/CloverHackyColor/HWMonitorSMC2)[![GitHub all releases](https://img.shields.io/github/downloads/CloverHackyColor/HWMonitorSMC2/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)
+
+[![](https://img.shields.io/badge/ChefKissInc-RadeonSensor-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ChefKissInc/RadeonSensor)[![GitHub all releases](https://img.shields.io/github/downloads/ChefKissInc/RadeonSensor/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ChefKissInc/RadeonSensor/releases)
+
+[![](https://img.shields.io/badge/benbaker76-Hackintool-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/benbaker76/Hackintool)[![GitHub all releases](https://img.shields.io/github/downloads/benbaker76/Hackintool/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/benbaker76/Hackintool/releases)
+
+[![](https://img.shields.io/badge/0xCUB3-About_This_Hack-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/0xCUB3/About-This-Hack)[![GitHub all releases](https://img.shields.io/github/downloads/0xCUB3/About-This-Hack/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/0xCUB3/About-This-Hack/releases)
+
+[![](https://img.shields.io/badge/ninxsoft-Mist-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ninxsoft/Mist)[![GitHub all releases](https://img.shields.io/github/downloads/ninxsoft/Mist/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ninxsoft/Mist/releases)
+
+### Download the other tools:
+
+| Name                       | Links                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `Mactracker`               | [Official link](https://mactracker.ca/)                                                                              |
+| `Python`                   | [Official link](https://www.python.org/downloads/macos/)                                                             |
+| `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                            |
+| `PlistEdit Pro`            | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                        |
+| `Intel Power Gadget`       | [Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg) |  
+| `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                              |
+| `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                           |
+| `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)      |
+| `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                              |
+| `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                  | 
+
+
+</details>
+
 
 <details>
 <summary><strong>Operating systems:</strong></summary>
@@ -163,61 +219,6 @@
  
 </details>
 
-<details>
-<summary><strong>Download the tools:</strong></summary>
-<br />
-
-[![](https://img.shields.io/badge/acidanthera-OpenCorePkg-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/OpenCorePkg)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/OpenCorePkg/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/OpenCorePkg/releases)
-
-[![](https://img.shields.io/badge/acidanthera-OcBinaryData-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/OcBinaryData)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/OcBinaryData/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/OcBinaryData/archive/refs/heads/master.zip)
-
-[![](https://img.shields.io/badge/acidanthera-MaciASL-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/acidanthera/MaciASL)[![GitHub all releases](https://img.shields.io/github/downloads/acidanthera/MaciASL/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/acidanthera/MaciASL/releases)
-
-[![](https://img.shields.io/badge/dortania-OpenCore_Legacy_Patcher-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/dortania/OpenCore-Legacy-Patcher)[![GitHub all releases](https://img.shields.io/github/downloads/dortania/OpenCore-Legacy-Patcher/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/dortania/OpenCore-Legacy-Patcher/releases)
-
-[![](https://img.shields.io/badge/ic005k-OCAuxiliaryTools-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ic005k/OCAuxiliaryTools)[![GitHub all releases](https://img.shields.io/github/downloads/ic005k/OCAuxiliaryTools/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ic005k/OCAuxiliaryTools/releases)
-
-[![](https://img.shields.io/badge/corpnewt-ProperTree-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/ProperTree)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/ProperTree/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip)
-
-[![](https://img.shields.io/badge/corpnewt-GenSMBIOS-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/GenSMBIOS)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/GenSMBIOS/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip)
-
-[![](https://img.shields.io/badge/corpnewt-USBMap-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/USBMap)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/USBMap/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/USBMap/archive/refs/heads/master.zip)
-
-[![](https://img.shields.io/badge/corpnewt-SSDTTime-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/corpnewt/SSDTTime)[![GitHub all releases](https://img.shields.io/github/downloads/corpnewt/SSDTTime/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/corpnewt/SSDTTime/archive/refs/heads/master.zip)
-
-[![](https://img.shields.io/badge/Piker_Alpha-ssdtPRGen.sh-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/Piker-Alpha/ssdtPRGen.sh)[![GitHub all releases](https://img.shields.io/github/downloads/Piker-Alpha/ssdtPRGen.sh/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/Piker-Alpha/ssdtPRGen.sh/archive/refs/heads/Beta.zip)
-
-[![](https://img.shields.io/badge/USBToolBox-tool-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/USBToolBox/tool)[![GitHub all releases](https://img.shields.io/github/downloads/USBToolBox/tool/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/USBToolBox/tool/releases)
-
-[![](https://img.shields.io/badge/utopia_team-IORegistryExplorer-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/utopia-team/IORegistryExplorer)[![GitHub all releases](https://img.shields.io/github/downloads/utopia-team/IORegistryExplorer/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/utopia-team/IORegistryExplorer/releases)
-
-[![](https://img.shields.io/badge/CloverHackyColor-HWMonitorSMC2-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/CloverHackyColor/HWMonitorSMC2)[![GitHub all releases](https://img.shields.io/github/downloads/CloverHackyColor/HWMonitorSMC2/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/CloverHackyColor/HWMonitorSMC2/releases)
-
-[![](https://img.shields.io/badge/ChefKissInc-RadeonSensor-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ChefKissInc/RadeonSensor)[![GitHub all releases](https://img.shields.io/github/downloads/ChefKissInc/RadeonSensor/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ChefKissInc/RadeonSensor/releases)
-
-[![](https://img.shields.io/badge/benbaker76-Hackintool-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/benbaker76/Hackintool)[![GitHub all releases](https://img.shields.io/github/downloads/benbaker76/Hackintool/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/benbaker76/Hackintool/releases)
-
-[![](https://img.shields.io/badge/0xCUB3-About_This_Hack-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/0xCUB3/About-This-Hack)[![GitHub all releases](https://img.shields.io/github/downloads/0xCUB3/About-This-Hack/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/0xCUB3/About-This-Hack/releases)
-
-[![](https://img.shields.io/badge/ninxsoft-Mist-informational?style=flat&logo=github&logoColor=white&color=FFFFFF)](https://github.com/ninxsoft/Mist)[![GitHub all releases](https://img.shields.io/github/downloads/ninxsoft/Mist/total?style=flat&logo=github&logoColor=white&color=008080)](https://github.com/ninxsoft/Mist/releases)
-
-### Download the other tools:
-
-| Name                       | Links                                                                                                                |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| `Mactracker`               | [Official link](https://mactracker.ca/)                                                                              |
-| `Python`                   | [Official link](https://www.python.org/downloads/macos/)                                                             |
-| `OpenCore Configurator`    | [Official link](https://mackie100projects.altervista.org/download-opencore-configurator/)                            |
-| `PlistEdit Pro`            | [Official link](https://www.fatcatsoftware.com/plisteditpro/)                                                        |
-| `Intel Power Gadget`       | [Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg) |  
-| `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                              |
-| `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                           |
-| `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)      |
-| `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                              |
-| `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                  | 
-
-
-</details>
 
 
 <details>
