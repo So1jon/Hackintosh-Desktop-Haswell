@@ -55,6 +55,33 @@
 </details>
 
 <details>
+<summary><strong>Download the Kexts:</strong></summary>
+
+<br />
+
+
+| Specifications                                                                        | Kexts                           | [Builds/Dortania](https://dortania.github.io/builds/)  Links                                                    |
+| ------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Open source kernel extension                                                          | `Lilu.kext`                     | [Gihub Link](https://github.com/acidanthera/Lilu)                                                               |
+| Advanced `Apple SMC` emulator in the kernel                                           | `VirtualSMC.kext`               | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                         |
+| `Lilu` plugin for providing patches to select GPUs                                    | `WhateverGreen.kext`            | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                                      |
+| `Lilu` plugin for dynamic power management data injection                             | `CPUFriend.kext`                | [Gihub Link](https://github.com/acidanthera/CPUFriend)                                                          |
+| `Lilu` plugin that combines the functionality of `VoodooTSCSync`                      | `CpuTscSync.kext`               | [Gihub Link](https://github.com/acidanthera/CpuTscSync)                                                         |
+| Kernel extension for blocking unwanted processes                                      | `RestrictEvents.kext`           | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                                     |
+| An open source kernel extension enabling native `macOS` HD audio                      | `AppleALC.kext`                 | [Gihub Link](https://github.com/acidanthera/AppleALC)                                                           |
+| New Trackpad uses emulation to use the built-in `macOS` driver                        | `VoodooPS2.kext`                | [Gihub Link](https://github.com/acidanthera/VoodooPS2)                                                          |
+| `OS X` open source driver for the `Realtek RTL8111/8168` family                       | `RealtekRTL8111.kext`           | [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)                                         | 
+| Drivers for `Realtek 802.11n` and `802.11ac USB Wi-Fi` adapters                       | `RtWlanU.kext RtWlanU1827.kext` | [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)                                         |
+| USB Wake Controller                                                                   | `USBWakeFixup.kext`             | [Gihub Link](https://github.com/osy/USBWakeFixup)                                                               |
+| An open source kernel extension providing a sync between `RTC` variables and `NVRAM`  | `HibernationFixup.kext`         | [Gihub Link](https://github.com/acidanthera/HibernationFixup)                                                   |
+| Adds allowed entitlements to non-`Apple` signed apps when `SIP` is enabled            | `AMFIExemption.kext`            | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
+| Drivers for `Cambridge Silicon Radio 4.0 USB Bluetooth` adapters                      | `CSRBluetoothInjector.kext`     | [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
+
+
+</details>
+
+
+<details>
 <summary><strong>Operating systems:</strong></summary>
 
 <br />
@@ -134,33 +161,6 @@
 | `ToggleSipEntry.efi`    | Optional | Enabling and Disabling System Integrity Protection |
 | `AudioDxe.efi`          | Optional | Unrelated to Audio support in macOS                |
  
-</details>
-
-
-<details>
-<summary><strong>Download the Kexts:</strong></summary>
-
-<br />
-
-
-| Specifications                                                                        | Kexts                           | [Builds/Dortania](https://dortania.github.io/builds/)  Links                                                    |
-| ------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Open source kernel extension                                                          | `Lilu.kext`                     | [Gihub Link](https://github.com/acidanthera/Lilu)                                                               |
-| Advanced `Apple SMC` emulator in the kernel                                           | `VirtualSMC.kext`               | [Gihub Link](https://github.com/acidanthera/VirtualSMC)                                                         |
-| `Lilu` plugin for providing patches to select GPUs                                    | `WhateverGreen.kext`            | [Gihub Link](https://github.com/acidanthera/WhateverGreen)                                                      |
-| `Lilu` plugin for dynamic power management data injection                             | `CPUFriend.kext`                | [Gihub Link](https://github.com/acidanthera/CPUFriend)                                                          |
-| `Lilu` plugin that combines the functionality of `VoodooTSCSync`                      | `CpuTscSync.kext`               | [Gihub Link](https://github.com/acidanthera/CpuTscSync)                                                         |
-| Kernel extension for blocking unwanted processes                                      | `RestrictEvents.kext`           | [Gihub Link](https://github.com/acidanthera/RestrictEvents)                                                     |
-| An open source kernel extension enabling native `macOS` HD audio                      | `AppleALC.kext`                 | [Gihub Link](https://github.com/acidanthera/AppleALC)                                                           |
-| New Trackpad uses emulation to use the built-in `macOS` driver                        | `VoodooPS2.kext`                | [Gihub Link](https://github.com/acidanthera/VoodooPS2)                                                          |
-| `OS X` open source driver for the `Realtek RTL8111/8168` family                       | `RealtekRTL8111.kext`           | [Gihub Link](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)                                         | 
-| Drivers for `Realtek 802.11n` and `802.11ac USB Wi-Fi` adapters                       | `RtWlanU.kext RtWlanU1827.kext` | [Gihub Link](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)                                         |
-| USB Wake Controller                                                                   | `USBWakeFixup.kext`             | [Gihub Link](https://github.com/osy/USBWakeFixup)                                                               |
-| An open source kernel extension providing a sync between `RTC` variables and `NVRAM`  | `HibernationFixup.kext`         | [Gihub Link](https://github.com/acidanthera/HibernationFixup)                                                   |
-| Adds allowed entitlements to non-`Apple` signed apps when `SIP` is enabled            | `AMFIExemption.kext`            | [Gihub Link](https://github.com/osy/AMFIExemption)                                                              |
-| Drivers for `Cambridge Silicon Radio 4.0 USB Bluetooth` adapters                      | `CSRBluetoothInjector.kext`     | [Gihub Link](https://github.com/So1jon/Hackintosh-Desktop-Haswell/files/12690495/CSRBluetoothInjector.kext.zip) |
-
-
 </details>
 
 <details>
