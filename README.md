@@ -26,7 +26,7 @@
 | **iGPU**        | `Intel® HD Graphics 4600`               | [`Intel Haswell`](https://ark.intel.com/content/www/us/en/ark/search.html?_charset_=UTF-8&q=HD+Graphics+4600)                                              |
 | **dGPU**        | `AMD Radeon RX 580 8GB`                 | [`Sapphire NITRO+`](https://www.sapphiretech.com/en/consumer/nitro-rx-580-8g-g5)                                                                        |
 | **Ram**         | `DDR3 16GB / 1600Mhz`                   | [`Kingston`](https://www.kingston.com/dataSheets/KVR16N11S8_4.pdf)                                                                                         |
-| **Storage**     | `SSD 480GB SATA  6Gb/s`                 | [`PNY CS900`](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/)                                                                              |
+| **Storage**     | `CS900 SSD 480GB SATA  6Gb/s`           | [`  PNY  `](https://www.pny.com.tw/en/products-detail/CS900-2-point-5-SSD/)                                                                              |
 | **Ethernet**    | `RTL8111E-VL 1.0 Gigabit/s`             | [`Realtek`](https://4ip.info/files/attachments/RTL8111E.pdf)                                                                                               |
 | **Audio**       | `Codec ALC887`                          | [`Realtek`](http://www.chipset-ic.com/datasheet/ALC887.pdf)                                                                                                |
 | **USB Wi-Fi**   | `TL-WN725N V3`                          | [`TP-Link`](https://www.tp-link.com/us/support/download/tl-wn725n/)                                                                                        |
