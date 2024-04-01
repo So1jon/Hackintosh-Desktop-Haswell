@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/HJnpvwQ.png" width="200" height="48"/> EFI</p>
 <p align="center">
   <a href="https://github.com/acidanthera/OpenCorePkg">
-  <img src="https://img.shields.io/badge/OpenCore-0.9.8-informational.svg">
+  <img src="https://img.shields.io/badge/OpenCore-0.9.9-informational.svg">
  </a>
 </p>
 
@@ -146,7 +146,7 @@
 
 | Name           | Version | Build      | Image links                                                                                                                                                                                                                                                           |
 | -------------- | ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `macOS Sonoma` |  `14.4` | `23E214`   | [`DMG`](https://drive.google.com/file/d/11AenC0BGm5waNFXQnT5uI8UPNtQP9oaQ/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6372743)                                                                                                            |
+| `macOS Sonoma` |`14.4.1` | `23E224`   | [`DMG`](https://drive.google.com/file/d/1IxYjk0gFRxLXwv1oZJUtAMcLWLw0n0Oy/view) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6372743)                                                                                                            |
 | `macOS Ventura`| `13.6.5`| `22G621`   | [`DMG`](https://drive.google.com/file/d/1GOymssmYW6bJdrm-1ocXokq-pYUoYl-f/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
 |`macOS Monterey`| `12.7.4`| `21H1123`  | [`DMG`](https://drive.google.com/file/d/1xTiZ7oAaqUMAhr7bHVEmG1f01WOTGmI-/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
 | `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
