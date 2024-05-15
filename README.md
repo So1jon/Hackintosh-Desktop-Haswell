@@ -146,12 +146,10 @@
 
 | Name           | Version | Build      | Image links                                                                                                                                                                                                                                                           |
 | -------------- | ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `macOS Sonoma` |`14.4.1` | `23E224`   | [`DMG`](https://drive.google.com/file/d/1IxYjk0gFRxLXwv1oZJUtAMcLWLw0n0Oy/view) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6372743)                                                                                                            |
-| `macOS Ventura`| `13.6.5`| `22G621`   | [`DMG`](https://drive.google.com/file/d/1GOymssmYW6bJdrm-1ocXokq-pYUoYl-f/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
-|`macOS Monterey`| `12.7.4`| `21H1123`  | [`DMG`](https://drive.google.com/file/d/1xTiZ7oAaqUMAhr7bHVEmG1f01WOTGmI-/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
+| `macOS Sonoma` |`14.5`   | `23F79`    | [`DMG`](https://drive.google.com/file/d/1xbmsGcAx2NFdQDOVavN0M-WzzyVNyA1x/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6372743)                                                                                                            |
+| `macOS Ventura`| `13.6.7`| `22G720`   | [`DMG`](https://drive.google.com/file/d/1YBoZio8yaiURgJNl7SIXly0l2dvI8Fvt/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6223477)                                                                                                            | 
+|`macOS Monterey`| `12.7.5`| `21H1222`  | [`DMG`](https://drive.google.com/file/d/1fnlLVPrWgrMpAeC_3GjGk5vIV5-3tO4b/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=6066530)                                                                                                            |
 | `macOS Big Sur`|`11.7.10`| `20G1427`  | [`DMG`](https://drive.google.com/file/d/1urRARlkOi6NVc5b6CM0RFLvDLhsCcU5D/view?usp=sharing) / [`rdr`](https://rutracker.org/forum/viewtopic.php?t=5928524)                                                                                                            |
-| `Windows  11`  | `23H2`  |`22635.3212`| [`ISO EN`](https://comss.cloud/22635.3212.240220-2010.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_EN-US_FIXED_2024_02_27.iso) / [`ISO RU`](https://comss.cloud/22635.3212.240220-2010.NI_RELEASE_SVC_BETAFLT_PROD1_CLIENTMULTI_X64FRE_RU-RU_FIXED_2024_02_27.iso) |
-
 
 </details>
 
