@@ -265,6 +265,7 @@
 | --------------------- | -------- | -------------------------------------------------------------- | ----------------- | ----------- |
 | CPU Single-Core Score | 1279     | [ID 4337338](https://browser.geekbench.com/v6/cpu/4613419)     | `macOS Sonoma`    | `MacPro7,1` |
 | CPU Multi-Core Score  | 4108     | [ID 4337338](https://browser.geekbench.com/v6/cpu/4613419)     | `macOS Sonoma`    | `MacPro7,1` |
+| dGPU OpenCL Score     | 42667    | [ID 2350057](https://browser.geekbench.com/v6/compute/2350057) | `macOS Sonoma`    | `MacPro7,1` |
 | dGPU Metal Score      | 46180    | [ID 1667557](https://browser.geekbench.com/v6/compute/1667557) | `macOS Sonoma`    | `MacPro7,1` |
 | iGPU OpenCL Score     | 3298     | [ID 1995546](https://browser.geekbench.com/v6/compute/1995546) | `macOS Big Sur`   | `iMac14,4`  |
 | iGPU Metal Score      | 1329     | [ID 1995533](https://browser.geekbench.com/v6/compute/1995533) | `macOS Big Sur`   | `iMac14,4`  |
