@@ -129,7 +129,7 @@
 | `Intel Power Gadget`       | [Official link](https://www.intel.com/content/dam/develop/external/us/en/documents/downloads/intel-power-gadget.dmg) |  
 | `ESP Mounter Pro`          | [Official link](https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip)                              |
 | `Kernel Debug Kit`         | [Official link](https://developer.apple.com/download/all/)                                                           |
-| `Windows Install`          | [Official link](https://applelife.ru/threads/skript-ustanovki-windows-iz-pod-macos.2942844/page-19#post-741961)      |
+| `Windows Install`          | [Official link](https://sourceforge.net/projects/windows-install/)                                                   |
 | `TransMac`                 | [Official link](https://www.acutesystems.com/scrtm.htm)                                                              |
 | `HFS+ Paragon Software`    | [Official link](https://www.paragon-software.com/home/hfs-windows/)                                                  | 
 
