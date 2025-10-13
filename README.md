@@ -13,6 +13,10 @@
 
 [![GitHub all releases](https://img.shields.io/github/downloads/So1jon/Hackintosh-Desktop-Haswell/total?style=flat&logo=github&logoColor=white&color=1A91FF)](https://github.com/So1jon/Hackintosh-Desktop-Haswell/releases)
 
+
+> [!CAUTION]
+> - With the end of Intel Macs and Hackintosh support, the last macOS version, 26 Tahoe, will be the final one to support them. I plan to release the final version for macOS 26.4. So, I guess we'll have to wait about 9 months or so
+
 <details>
 <summary><strong>Hardware specifications:</strong></summary>
 
