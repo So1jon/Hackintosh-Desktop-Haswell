@@ -172,7 +172,7 @@
 | iMac15,1   | Haswell with dGPU (Enabled iGPU Acceleration) |  full supported             |  not supported             | not supported    | not supported  | not supported  | not supported  |
 | iMac16,2   | Haswell with only iGPU                        | supported (not recommended) |supported (not recommended) | not supported    | not supported  | not supported  | not supported  |
 | iMac17,1   | Haswell with dGPU (Enabled iGPU Acceleration) | supported (not recommended) |  full supported            | not supported    | not supported  | not supported  | not supported  |
-| iMacPro1,1 | Haswell only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported | full supported | full supported |
+| iMacPro1,1 | Haswell only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported | full supported | not supported  |
 | MacPro7,1  | Haswell only dGPU (Disabled iGPU Acceleration)|  full supported             |  full supported            | full supported   | full supported | full supported | full supported |
 
 ⚠️ It's fully **required** to generate your own serials with [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and put it in your config.plist.
