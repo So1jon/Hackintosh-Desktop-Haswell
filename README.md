@@ -349,6 +349,23 @@ sudo pmset tcpkeepalive 0
 Подтверждаем наши намерения кнопкой `Enter`.
 Всё готово. Требуемый файл или папка больше не будут отображаться в `Finder`.
 
+### ⚠️ Итак, как бесплатно слушаем Spotify без рекламы и со всеми Premium-фичами  для меломанов-халявщиков.
+
+Всё, что нужно — актуальная версия Spotify и запустить одну команду.
+
+Для Windows, пишем в Powershell:
+
+```bash
+iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/SpotX/refs/heads/main/run.ps1') } -new_theme"
+```
+
+Для MacOS, пишем в Терминале:
+
+```bash
+bash <(curl -sSL https://spotx-official.github.io/run.sh)
+```
+
+
 </details>
 
 <details>
